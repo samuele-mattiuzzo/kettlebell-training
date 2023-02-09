@@ -10,29 +10,35 @@ Chins | 20 | 5     | 5/7.5 | 10/12
 
 ## WEEKLY SCHEDULE
 
-DAY | INTENSITY | LIFT | REPS | SETS
---|--|--|--|--
-.  | M 70%    | CLEAN + PRESS    | 8  | 6
-D1 | L 50/60% | FSQ + band pulls | 10 | 5
-.  | H 80%    | Dips + Chins     | 5  | 5-7
+DAY | LIFT | SETS | REPS
+--|--|--|--
+.  | PRESS    | 5  | 8-12
+D1 | FSQ | 5 | 8-12
+.  | Dips + Chins     | 5  | 5-7
+
+50x band pulls, reverse hypers, ab wheels
 
 
-DAY | INTENSITY | LIFT | REPS | SETS
---|--|--|--|--
-.  | H 80%    | CLEAN + PRESS    | 5  | 5-7
-D3 | M 70%    | FSQ + band pulls | 8  | 6
-.  | L 50/60% | Dips + Chins     | 10 | 5
+DAY | LIFT | SETS | REPS
+--|--|--|--
+.  | PRESS    | 5  | 8-12
+D3 | FSQ | 5  | 5-7
+.  | Dips + Chins     | 5 | 8-12
+
+50x band pulls, reverse hypers, ab wheels
 
 
-DAY | INTENSITY | LIFT | REPS | SETS
---|--|--|--|--
-.  | L 50/60% | CLEAN + PRESS    | 10 | 5
-D5 | H 80%    | FSQ + band pulls | 5  | 5-7
-.  | M 70%    | Dips + Chins     | 8  | 6
+DAY | LIFT | SETS | REPS
+--|--|--|--
+.  | PRESS    | 5 | 5-7
+D5 | FSQ | 5  | 8-12
+.  | Dips + Chins     | 5  | 8-12
+
+50x band pulls, reverse hypers, ab wheels
 
 
 DAY | LIFT | TIME/INTENSITY
 --|--|--
-. | Carries |
-D2/D4/D6 | Swings | 30mins/recovery
-. | Snatches |
+. | Carries | 15m amrap
+D2/D4/D6 | Swings | 100 to 200
+. | Snatches | 50 to 100
