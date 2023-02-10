@@ -2,40 +2,46 @@
 
 LIFT | 1RM | 60% (10rm) | 70% (8rm) | 80% (5rm)
 --|--|--|--|--
-Press | 20 | 10/12 | 12/14 | 16/18
-Clean | 24 | 12/14 | 14/16 | 18/20
+Press | 20 | 12 | 14 | 16/18
 FSQ   | 50 | 24/28 | 28/32 | 36/40
-Dips  | 24 | 10    | 12/14 | 16/20
-Chins | 20 | 5     | 5/7.5 | 10/12 
+Floor Press  | 32 | 14    | 16 | 20
+Row | 32 | 14     | 16 | 20 
 
 ## WEEKLY SCHEDULE
 
 DAY | LIFT | SETS | REPS
 --|--|--|--
-.  | PRESS    | 5  | 8-12
-D1 | FSQ | 5 | 8-12
-.  | Dips + Chins     | 5  | 5-7
+.  | Press    | 5  | 5-7
+D5 | Front Squat | 4 | 10-12
+.  | Push up + Rows     | 4  | 10-12
 
-50x band pulls, reverse hypers, ab wheels
-
-
-DAY | LIFT | SETS | REPS
---|--|--|--
-.  | PRESS    | 5  | 8-12
-D3 | FSQ | 5  | 5-7
-.  | Dips + Chins     | 5 | 8-12
-
-50x band pulls, reverse hypers, ab wheels
+```
+4x8-12: band pulls, crush curls, ab wheels
+4x25: swings
+```
 
 
 DAY | LIFT | SETS | REPS
 --|--|--|--
-.  | PRESS    | 5 | 5-7
-D5 | FSQ | 5  | 8-12
-.  | Dips + Chins     | 5  | 8-12
+.  | Press    | 4  | 10-12
+D3 | Front Squat | 5  | 5-7
+.  | Push Ups + Rows    | 4 | 10-12
 
-50x band pulls, reverse hypers, ab wheels
+```
+4x8-12: band pulls, crush curls, ab wheels
+4x25: swings
+```
 
+DAY | LIFT | SETS | REPS
+--|--|--|--
+.  | Press    | 4 | 10-12
+D5 | Front Squat | 4  | 10-12
+.  | Floor Press + Rows     | 5  | 5-7
+
+```
+4x8-12: band pulls, crush curls, ab wheels
+4x25: swings
+```
 
 DAY | LIFT | TIME/INTENSITY
 --|--|--
