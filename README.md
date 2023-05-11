@@ -1,5 +1,4 @@
-# Kettlebell programs
-
+# Training
 ## Dry Fighting Weight - remix [str/mass]
 ```
 Dfw days 1/3/5: c&p + fsq
@@ -57,7 +56,7 @@ Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.5
 Weeks 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 
-## Prometheus Protocol [hypertrophy]
+## Prometheus Protocol [mass]
 ```
 D1: c&p 10x5, fsq 10x5
 D2: rdl/sldl 10x5, chin up/barbell row 10x5
@@ -66,4 +65,19 @@ D4: rdl/sldl 5x10, chin up/barbell row 5x10
 
 Use 12RM bells. Run for 4 to 6 weeks, then deload.
 Deload: 50% volume (5x5 D1/2, 2x10 D3/4)
+```
+
+## Built Strong Minimalist [mass]
+```
+- 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s
+- ladders: (4,6) with 10RM / (2,3) with 5RM
+- 1 PUSH: 2xKB press, BB press, dips
+  1 PULL: 2xKB renegade row, BB row, chinups
+  1 SQUAT: 2xKB front squat, lunge, split squat
+
+Roll a dice per exercise
+- 1 -> 2 sets (20/10 total reps)
+- 2,3 -> 4 sets (40/20 total reps)
+- 4,5 -> 6 sets (60/30 total reps)
+- 6 -> 8 sets (80/40 total reps)
 ```
