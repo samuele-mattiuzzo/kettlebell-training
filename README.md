@@ -1,7 +1,9 @@
+# Kettlebell programs
+
 ## Dry Fighting Weight - remix [str/mass]
 ```
-Dfw days: c&p + fsq
-Off days : 200 swings + 25-50 chins
+Dfw days 1/3/5: c&p + fsq
+Off days 2/4[/6]: 200 swings + 25-50 chins
 w1: 1,2,3     / 1 / 2
 w2: 1,2,3     / 2 / 3
 w3: 1,2,3,4   / 2 / 3
@@ -19,6 +21,16 @@ D3: snatch + fsq + press + fsq + clean + fsq
 
 Weeks 1/2/3: 3x/4x/5x, w:r = 1:2
 Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.
+```
+
+## Clean 'em Up 1.0 [mass]
+```
+7 reps
+D1: clean + fsq + snatch + press
+D2: clean + press + snatch + fsq + press
+D3: clean + press + fsq
+
+Weeks 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
 ```
 
 ## Clean 'em Up 2.0 [mass]
