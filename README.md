@@ -1,3 +1,15 @@
+# Programming
+
+- [STR] DFW - 5 weeks
+- [MASS] TheWolf - 6 weeks
+- [STR] DFW - 5 weeks
+- [MASS] Clean em Up - 9 weeks
+- [STR] You Don't know Squat - 9 weeks
+
+total cycle length: 34 weeks (8 months)
+
+---
+
 ## Dry Fighting Weight - remix
 
 . | D1 | D2 | D3
