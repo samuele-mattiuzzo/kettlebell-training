@@ -1,14 +1,12 @@
-# Training
 ## Dry Fighting Weight - remix [str/mass]
 ```
-Dfw days 1/3/5: c&p + fsq
-Off days 2/4[/6]: 200 swings + 25-50 chins
+D1/3/5: c&p + fsq, D2/4[/6]: 200 swings + 25-50 chins
+
 w1: 1,2,3     / 1 / 2
 w2: 1,2,3     / 2 / 3
 w3: 1,2,3,4   / 2 / 3
 w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
-Timer: 30/40'
 ```
 
 ## The Wolf [mass]
@@ -18,8 +16,7 @@ D1: clean + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
 D3: snatch + fsq + press + fsq + clean + fsq
 
-Weeks 1/2/3: 3x/4x/5x, w:r = 1:2
-Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.5
+W 1/2/3: 3x/4x/5x, w:r = 1:2, W 4/5/6: 3x/4x/5x, w:r = 1:1.5
 ```
 
 ## Clean 'em Up 1.0 [mass]
@@ -29,7 +26,7 @@ D1: clean + fsq + snatch + press
 D2: clean + press + snatch + fsq + press
 D3: clean + press + fsq
 
-Weeks 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
+W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
 ```
 
 ## Clean 'em Up 2.0 [mass]
@@ -39,9 +36,9 @@ D1: clean + press + snatch + fsq
 D2: clean + snatch + jerk + fsq + swing
 D3: clean + fsq + snatch + press + swing + row
 
-Weeks 1/2/3: 3x/4x/5x, w:r = 1:2
-Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.5
-Weeks 7/8/9: 3x/4x/5x, w:r = 1:1
+W 1/2/3: 3x/4x/5x, w:r = 1:2
+W 4/5/6: 3x/4x/5x, w:r = 1:1.5
+W 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 
 ## You Don't know Squat 2.0 [str/mass]
@@ -51,9 +48,9 @@ D1: fsq + swing + fsq + clean
 D2: fsq + clean + fsq + press + fsq + swing
 D3: fsq + snatch + fsq + press + fsq + clean + fsq + push press
 
-Weeks 1/2/3: 3x/4x/5x, w:r = 1:2
-Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.5
-Weeks 7/8/9: 3x/4x/5x, w:r = 1:1
+W 1/2/3: 3x/4x/5x, w:r = 1:2
+W 4/5/6: 3x/4x/5x, w:r = 1:1.5
+W 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 
 ## Built Strong Minimalist [mass]
@@ -85,8 +82,8 @@ W 1-4: 1,2,3,4,5 / W 5-8: sets of 3 / W 9-12: sets of 5
 
 ## Swing Season [cond]
 ```
-2h swings, 20-30', 26 total workouts
-all reps emom, medium kb
+2h swings, 20-30', 26 total workouts, emom
+
 1-5: 8 -> 9 -> 10 -> 11 -> 12
 6-11: 10 -> 11 -> 12 -> 13 -> 14 -> 15
 12-18: 13 -> 14 -> 15 -> 16 -> 17 -> 18
