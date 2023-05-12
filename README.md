@@ -60,15 +60,8 @@ Weeks 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 - 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s
 - ladders: (4,6) with 10RM / (2,3) with 5RM
-- 1 PUSH: 2xKB press, BB press, dips
-  1 PULL: 2xKB renegade row, BB row, chinups
-  1 SQUAT: 2xKB front squat, lunge, split squat
-
-Roll a dice per exercise
-- 1 -> 2 sets (20/10 total reps)
-- 2,3 -> 4 sets (40/20 total reps)
-- 4,5 -> 6 sets (60/30 total reps)
-- 6 -> 8 sets (80/40 total reps)
+- 1 PUSH, 1 PULL, 1 SQUAT
+- Dice roll: 1 -> 2 sets, 2,3 -> 4 sets, 4,5 -> 6 sets, 6 -> 8 sets
 ```
 
 ## Full Body Blast [str]
@@ -78,7 +71,6 @@ C&P [L,R] + Chin ups / Renegade rows + Front squats[L,R]
 
 Phase1: 1,2,3(L) / 1,2,3,4(M) / 1,2,3,4,5(H)
 Phase2: 2,3(L) / 2,3,5(M) / 2,3,5,10(H)
-Phase3: up kb size (or do 6 weeks p1 + 6 weeks p2)
 ```
 
 ## The Olympic [str]
@@ -88,9 +80,7 @@ D1: Clean + Fsq [L,R]
 D2: Clean + Press [L,R]
 D3: Clean + Press + Fsq [L,R]
 
-Weeks 1-4: 1,2,3,4,5
-Weeks 5-8: sets of 3
-Weeks 9-12: sets of 5
+W 1-4: 1,2,3,4,5 / W 5-8: sets of 3 / W 9-12: sets of 5
 ```
 
 ## Swing Season [cond]
