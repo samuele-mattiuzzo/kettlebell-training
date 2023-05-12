@@ -56,17 +56,6 @@ Weeks 4/5/6: 3x/4x/5x, w:r = 1:1.5
 Weeks 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 
-## Prometheus Protocol [mass]
-```
-D1: c&p 10x5, fsq 10x5
-D2: rdl/sldl 10x5, chin up/barbell row 10x5
-D3: c&p 5x10, fsq 5x10
-D4: rdl/sldl 5x10, chin up/barbell row 5x10
-
-Use 12RM bells. Run for 4 to 6 weeks, then deload.
-Deload: 50% volume (5x5 D1/2, 2x10 D3/4)
-```
-
 ## Built Strong Minimalist [mass]
 ```
 - 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s
