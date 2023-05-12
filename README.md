@@ -56,7 +56,7 @@ W 7/8/9: 3x/4x/5x, w:r = 1:1
 
 ## Built Strong Minimalist
 ```
-- 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s
+- 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s 
 - ladders: (4,6) with 10RM / (2,3) with 5RM
 - 1 PUSH, 1 PULL, 1 SQUAT
 
@@ -88,5 +88,4 @@ W 1-4: 1,2,3,4,5 / W 5-8: sets of 3 / W 9-12: sets of 5
 
 8 -> 9 -> 10 -> 11 -> 12 -> 10 -> 11 -> 12 -> 13 -> 14 -> 15 -> 13 -> 14
 15 -> 16 -> 17 -> 18 -> 16 -> 17 -> 18 -> 19 -> 20 -> 18-> 19 -> 20 -> 21
-
 ```
