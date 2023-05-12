@@ -70,3 +70,36 @@ Roll a dice per exercise
 - 4,5 -> 6 sets (60/30 total reps)
 - 6 -> 8 sets (80/40 total reps)
 ```
+
+## Full Body Blast [str]
+```
+3x week, 25', L/M/H, 12 weeks
+C&P [L,R] + Chin ups / Renegade rows + Front squats[L,R]
+
+Phase1: 1,2,3(L) / 1,2,3,4(M) / 1,2,3,4,5(H)
+Phase2: 2,3(L) / 2,3,5(M) / 2,3,5,10(H)
+Phase3: up kb size (or do 6 weeks p1 + 6 weeks p2)
+```
+
+## The Olympic [str]
+```
+3x week, 25', 12 weeks, 7-8RM
+D1: Clean + Fsq [L,R]
+D2: Clean + Press [L,R]
+D3: Clean + Press + Fsq [L,R]
+
+Weeks 1-4: 1,2,3,4,5
+Weeks 5-8: sets of 3
+Weeks 9-12: sets of 5
+```
+
+## Swing Season [cond]
+```
+2h swings, 20-30', 26 total workouts
+all reps emom, medium kb
+1-5: 8 -> 9 -> 10 -> 11 -> 12
+6-11: 10 -> 11 -> 12 -> 13 -> 14 -> 15
+12-18: 13 -> 14 -> 15 -> 16 -> 17 -> 18
+19-22: 16 -> 17 -> 18 -> 19 -> 2
+23-26: -> 19 -> 20 -> 21
+```
