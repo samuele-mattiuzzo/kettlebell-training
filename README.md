@@ -16,7 +16,8 @@ D1: clean + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
 D3: snatch + fsq + press + fsq + clean + fsq
 
-W 1/2/3: 3x/4x/5x, w:r = 1:2, W 4/5/6: 3x/4x/5x, w:r = 1:1.5
+W 1/2/3: 3x/4x/5x, w:r = 1:2
+W 4/5/6: 3x/4x/5x, w:r = 1:1.5
 ```
 
 ## Clean 'em Up 1.0 [mass]
@@ -58,6 +59,7 @@ W 7/8/9: 3x/4x/5x, w:r = 1:1
 - 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s
 - ladders: (4,6) with 10RM / (2,3) with 5RM
 - 1 PUSH, 1 PULL, 1 SQUAT
+
 - Dice roll: 1 -> 2 sets, 2,3 -> 4 sets, 4,5 -> 6 sets, 6 -> 8 sets
 ```
 
