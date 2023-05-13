@@ -14,7 +14,7 @@ w5: 3x3 / 1rm test / 3x3
 5 reps
 D1: clean + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
-D3: snatch + fsq + press + fsq + clean + fsq
+D3: snatch/push-press + fsq + press + fsq + clean + fsq
 
 W 1/2/3: 3x/4x/5x, w:r = 1:2
 W 4/5/6: 3x/4x/5x, w:r = 1:1.5
@@ -23,23 +23,11 @@ W 4/5/6: 3x/4x/5x, w:r = 1:1.5
 ## Clean 'em Up 1.0
 ```
 7 reps
-D1: clean + fsq + snatch + press
-D2: clean + press + snatch + fsq + press
+D1: clean + fsq + snatch/clean + press
+D2: clean + press + snatch/clean + fsq + press
 D3: clean + press + fsq
 
 W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
-```
-
-## Clean 'em Up 2.0
-```
-6 reps
-D1: clean + press + snatch + fsq
-D2: clean + snatch + jerk + fsq + swing
-D3: clean + fsq + snatch + press + swing + row
-
-W 1/2/3: 3x/4x/5x, w:r = 1:2
-W 4/5/6: 3x/4x/5x, w:r = 1:1.5
-W 7/8/9: 3x/4x/5x, w:r = 1:1
 ```
 
 ## You Don't know Squat 2.0
