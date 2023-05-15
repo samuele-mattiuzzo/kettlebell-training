@@ -61,19 +61,23 @@ finisher: 10/15/20 20on/20off 2h swings or 5' snatch
 A: Press Pyramid / B: Squat Pyramid
 Pyramid: start 1 rep, up to rep max (perfect form), back to 1 rep
 Finisher: press -> 100 swings (10/20) / squat -> 5' snatch test
-Progress: same reps 3xlift, next up by 1-2 reps
+Progress: same reps 3 sessions, next up by 1-2 reps
 Deload: week of variety
 ```
 
 ## Simple Muscle + Russian bear
 ```
 4-6 weeks + 1 variety deload week
-SM: 3x week, M/L/H, 3 ladder sets of 6/5/7(10rm), press -> fsq
-- w1/3: 4 sets
-- w2/4: 5 sets
-RB: 3x week, M/L/H, double cleans, 8-10rm
+SM: 3x week, M/L/H, sets of 6/4/8 (12rm), press -> fsq
+3xREP in 2', rest 1'
+- w1/3: 4 sets (total 24')
+- w2/4: 5 sets (total 30')
+
+RB: 3x week, M/L/H, double cleans
 - 15' as many sets as possible
-- w1-4: 4/5/6/7 reps
+- w1-4: 8/6/10 reps
+
+Finish with 3/1/2 x 20 sldl+renegade rows (sets of 10)
 ```
 
 ## Built Strong Minimalist
