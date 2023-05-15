@@ -16,8 +16,11 @@ D1: clean + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
 D3: snatch/push-press + fsq + press + fsq + clean + fsq
 
-W 1/2/3: 3x/4x/5x, w:r = 1:2
-W 4/5/6: 3x/4x/5x, w:r = 1:1.5
+[10rm] 1/2/3: 3x/4x/5x, w:r = 1:2
+[10rm] 4/5/6: 3x/4x/5x, w:r = 1:1.5
+[5rm] 1/2: 3x, w:r = 1:2
+[5rm] 3/4: 4x, w:r = 1:2
+[5rm] 5/6: 5x, w:r = 1:2
 ```
 
 ## Clean 'em Up 1.0
@@ -40,6 +43,16 @@ D3: fsq + snatch + fsq + press + fsq + clean + fsq + push press
 W 1/2/3: 3x/4x/5x, w:r = 1:2
 W 4/5/6: 3x/4x/5x, w:r = 1:1.5
 W 7/8/9: 3x/4x/5x, w:r = 1:1
+```
+
+## The Giant + Front squats
+```
+4 weeks, 30-40', M/L/H
+clean&press, shake tension, fsq, 5' rest
+pulls (rows/chins) same rep scheme x3
+[10rm]: sets of 6/5/7 or 8/7/9
+[5rm]: sets of 2/1/3 or 4/3/5
+finisher: 10/15/20 20on/20off 2h swings or 5' snatch
 ```
 
 ## Built Strong Minimalist
