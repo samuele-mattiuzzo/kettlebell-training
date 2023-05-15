@@ -48,7 +48,7 @@ W 7/8/9: 3x/4x/5x, w:r = 1:1
 ## The Giant + Front squats
 ```
 4 weeks, 30-40', M/L/H
-clean&press, shake tension, fsq, 5' rest
+clean&press, shake tension, fsq, rest
 pulls (rows/chins) same rep scheme x3
 [10rm]: sets of 6/5/7 or 8/7/9
 [5rm]: sets of 2/1/3 or 4/3/5
@@ -68,14 +68,12 @@ Deload: week of variety
 ## Simple Muscle + Russian bear
 ```
 4-6 weeks + 1 variety deload week
-SM: 3x week, M/L/H, sets of 7,6,8(10rm)/3,2,4(5rm), press -> fsq
-- emom for 3 minutes + 1 minute rest
+SM: 3x week, M/L/H, 3 ladder sets of 6/5/7(10rm), press -> fsq
 - w1/3: 4 sets
 - w2/4: 5 sets
 RB: 3x week, M/L/H, double cleans, 8-10rm
 - 15' as many sets as possible
-- w1/3: 6/5/7 reps
-- w2/4: 2,3,5/1,2,3/3,5,7
+- w1-4: 4/5/6/7 reps
 ```
 
 ## Built Strong Minimalist
