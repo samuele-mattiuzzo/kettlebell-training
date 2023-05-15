@@ -77,11 +77,12 @@ Deload: week of variety
 
 ## Simple Muscle + Russian bear
 ```
-4-6 weeks + 1 variety deload week
-SM: 3x week, M/L/H, sets of 7/6/8 (12rm), press -> fsq
-3xREP in 2-3', rest 1'
-- w1/3: 3 sets (total 24')
-- w2/4: 4 sets (total 32')
+4 weeks, w1/3: 3 sets (24'), w2/4: 4 sets (32')
+SM: 3x week, 3xREP in 2-3', rest 1'
+M/L/H, sets of 6/4/8 (12rm), press -> fsq
+w1/3 d1:54, d2:36, d3:72 
+w2/4 d1:72, d2:48, d3:96
+
 
 RB: 3x week, M/L/H, double cleans
 - 15' as many sets as possible
