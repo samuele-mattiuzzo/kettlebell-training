@@ -9,6 +9,16 @@ w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
 ```
 
+## Mass Made Simple
+```
+- A1: press + renegade row
+- B1: ABC: 2 cleans, 1 press, 3 fsq -> 10 rounds
+- C1: Double front squats
+
+- A1 2,3,5,10 if floor / 2,3,5 if overhead, 1-5 sets
+- C1 work up to 50 reps
+```
+
 ## The Wolf
 ```
 5 reps
