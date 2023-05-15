@@ -9,6 +9,19 @@ w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
 ```
 
+## Moving Target
+```
+3x week, clean + press + fsq
+1 rep each + 1 target lift, reps 2/3/5 per target, 2 rounds
+finish with 3 sets of renegade rows or chin ups + ab wheel
+off days: 20on/20off swings, mobility
+
+w1: 235x2, 235x3, 335x2
+w2: 335x3, 345x2, 345x3
+w3: 445x2, 445x3, 455x2
+w4: 455x3, 555x2, 555x3
+```
+
 ## Mass Made Simple
 ```
 - A1: press + renegade row
