@@ -55,6 +55,29 @@ pulls (rows/chins) same rep scheme x3
 finisher: 10/15/20 20on/20off 2h swings or 5' snatch
 ```
 
+## Total Tension
+```
+6 weeks, 3 days a week, ABA-BAB, Clean + Press + Squat + Renegade Row
+A: Press Pyramid / B: Squat Pyramid
+Pyramid: start 1 rep, up to rep max (perfect form), back to 1 rep
+Finisher: press -> 100 swings (10/20) / squat -> 5' snatch test
+Progress: same reps 3xlift, next up by 1-2 reps
+Deload: week of variety
+```
+
+## Simple Muscle + Russian bear
+```
+4-6 weeks + 1 variety deload week
+SM: 3x week, M/L/H, sets of 7,5,9(10rm)/4,3,5(5rm), press -> fsq
+- emom for 3 minutes + 1 minute rest
+- w1/3: 4 sets
+- w2/4: 5 sets
+RB: 3x week, M/L/H
+- 15' as many sets as possible
+- w1/3: 6/4/8 reps
+- w2/4: 2,3,5/1,2,3/3,5,7
+```
+
 ## Built Strong Minimalist
 ```
 - 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s 
