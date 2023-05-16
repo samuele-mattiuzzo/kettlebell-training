@@ -1,6 +1,7 @@
 ## Dry Fighting Weight - RMX
 ```
-D1/3/5: c&p + fsq, D2/4[/6]: 200 swings + 25-50 chins
+D1/3/5: c&p + fsq / 25-50 chins
+D2/4[/6]: 20on/20off 200 swings
 
 w1: 1,2,3     / 1 / 2
 w2: 1,2,3     / 2 / 3
@@ -24,57 +25,44 @@ w4: 455x3, 555x2, 555x3
 
 ## Mass Made Simple
 ```
-- A1: press + renegade row
+- A1: press + row
 - B1: ABC: 2 cleans, 1 press, 3 fsq -> 10 rounds
-- C1: Double front squats
+- C1: goblet or double front squats
 
 - A1 2,3,5,10 if floor / 2,3,5 if overhead, 1-5 sets
 - C1 work up to 50 reps
 ```
 
-## The Wolf
+## The Wolf - remixed
 ```
 5 reps
-D1: clean + fsq + press + clean + fsq
+D1: press + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
-D3: snatch/push-press + fsq + press + fsq + clean + fsq
+D3: snatch/clean&press + fsq + press + fsq + clean + fsq
 
-[10rm] 1/2/3: 3x/4x/5x, w:r = 1:2
-[10rm] 4/5/6: 3x/4x/5x, w:r = 1:1.5
-[5rm] 1/2: 3x, w:r = 1:2
-[5rm] 3/4: 4x, w:r = 1:2
-[5rm] 5/6: 5x, w:r = 1:2
+[10rm] 6 to 9 weeks: 3x/4x/5x, w:r = 1:2/1:1.5/1:1
+[5rm] 5 to 7 weeks, w:r = 1:2/1:1.5
+Last week: deload, variety
+off days: 20on/20off swings, mobility
 ```
 
-## Clean 'em Up 1.0
+## Clean 'em Up - remixed
 ```
 7 reps
-D1: clean + fsq + snatch/clean + press
-D2: clean + press + snatch/clean + fsq + press
+D1: clean + fsq + clean&press
+D2: clean + press + clean + fsq + press
 D3: clean + press + fsq
 
 W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
-```
-
-## You Don't know Squat 2.0
-```
-3 reps
-D1: fsq + swing + fsq + clean
-D2: fsq + clean + fsq + press + fsq + swing
-D3: fsq + snatch + fsq + press + fsq + clean + fsq + push press
-
-W 1/2/3: 3x/4x/5x, w:r = 1:2
-W 4/5/6: 3x/4x/5x, w:r = 1:1.5
-W 7/8/9: 3x/4x/5x, w:r = 1:1
+off days: 20on/20off swings, mobility
 ```
 
 ## The Giant + Front squats
 ```
-4 weeks, 30-40', M/L/H
-clean&press, shake tension, fsq, rest
-pulls (rows/chins) same rep scheme x3
-[10rm]: sets of 6/5/7 or 8/7/9
-[5rm]: sets of 2/1/3 or 4/3/5
+4 weeks, 30-40', M/L/H, clean&press
+- squats 
+[10rm]: sets of 4/6/5, 6/5/7, 8/7/9
+[5rm]: sets of 2/1/3
 finisher: 10/15/20 20on/20off 2h swings or 5' snatch
 ```
 
@@ -111,6 +99,7 @@ Finish with 3/1/2 x 20 sldl+renegade rows (sets of 10)
 - 1 PUSH, 1 PULL, 1 SQUAT
 
 - Dice roll: 1 -> 2 sets, 2,3 -> 4 sets, 4,5 -> 6 sets, 6 -> 8 sets
+off days: 20on/20off swings, mobility
 ```
 
 ## Full Body Blast
@@ -120,16 +109,7 @@ C&P [L,R] + Chin ups / Renegade rows + Front squats[L,R]
 
 Phase1: 1,2,3(L) / 1,2,3,4(M) / 1,2,3,4,5(H)
 Phase2: 2,3(L) / 2,3,5(M) / 2,3,5,10(H)
-```
-
-## The Olympic
-```
-3x week, 25', 12 weeks, 7-8RM
-D1: Clean + Fsq [L,R]
-D2: Clean + Press [L,R]
-D3: Clean + Press + Fsq [L,R]
-
-W 1-4: 1,2,3,4,5 / W 5-8: sets of 3 / W 9-12: sets of 5
+off days: 20on/20off swings, mobility
 ```
 
 ## Swing Season
