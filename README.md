@@ -1,6 +1,6 @@
 # KETTLEBELL PROGRAMMING
 
-[more_muscle_and_strong_programs.md](more_muscle_and_strong_programs.md)
+[more_muscle.md](more_muscle.md)
 
 ## Dry Fighting Weight - RMX
 ```
