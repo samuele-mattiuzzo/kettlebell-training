@@ -34,7 +34,7 @@ Workout 2: 10x2 | Workout 8: 10x4
 Workout 3: 10x3 | Workout 9: 10x5
 Workout 4: 10x4 | Workout 10: 10x6
 Workout 5: 10x3 | Workout 11: 10x5
-Workout 6: 10x4 | Workout 11: 10x6
+Workout 6: 10x4 | Workout 12: 10x6
 
 ### Hypertrophy/capacity 
 
@@ -105,6 +105,3 @@ Combining Strong! and One!
 2 days strong, 2 days one
 strong, one, rest, strong, one, rest, rest
 ```
-
-
-### MORE KETTLBELL MUSCLE
