@@ -1,3 +1,7 @@
+# KETTLEBELL PROGRAMMING
+
+[more_muscle_and_strong_programs.md](more_muscle_and_strong_programs.md)
+
 ## Dry Fighting Weight - RMX
 ```
 D1/3/5: c&p + fsq / 25-50 chins
