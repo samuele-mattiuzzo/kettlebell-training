@@ -5,7 +5,7 @@
 
 ## Dry Fighting Weight - RMX
 ```
-D1/3/5: c&p + fsq / 25-50 chins
+D1/3/5: c&p + fsq
 D2/4[/6]: 20on/20off 200 swings
 
 w1: 1,2,3     / 1 / 2
@@ -15,17 +15,14 @@ w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
 ```
 
-## The Wolf - remixed
+## The Wolf
 ```
 5 reps
 D1: press + fsq + press + clean + fsq
 D2: fsq + press + clean + fsq
-D3: snatch/clean&press + fsq + press + fsq + clean + fsq
+D3: snatch + fsq + press + fsq + clean + fsq
 
 [10rm] 6 to 9 weeks: 3x/4x/5x, w:r = 1:2/1:1.5/1:1
-[5rm] 5 to 7 weeks, w:r = 1:2/1:1.5
-Last week: deload, variety
-off days: 20on/20off swings, mobility
 ```
 
 ## Mass Made Simple
@@ -42,7 +39,7 @@ off days: 20on/20off swings, mobility
 ```
 4 weeks, 30-40', M/L/H, clean&press
 - squats 
-[10rm]: sets of 4/6/5, 6/5/7, 8/7/9
+[10rm]: sets of 4/6/5, 6/8/7, 8/7/9
 [5rm]: sets of 2/1/3
 finisher: 10/15/20 20on/20off 2h swings or 5' snatch
 ```
@@ -137,12 +134,11 @@ w4: 455x3, 555x2, 555x3
 ## Clean 'em Up - remixed
 ```
 7 reps
-D1: clean + fsq + clean&press
+D1: clean + fsq + snatch
 D2: clean + press + clean + fsq + press
 D3: clean + press + fsq
 
 W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
-off days: 20on/20off swings, mobility
 ```
 
 ## Swing Season
