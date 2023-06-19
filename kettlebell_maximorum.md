@@ -13,6 +13,10 @@
 - 5-10 minutes
 - breathing and stretching
 
+### Extra
+- direct abs work after snatch days
+- rows/pulls every training day
+
 ### RPEs
 W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- 
