@@ -19,9 +19,8 @@ W1 | W2 | W3 | W4 | W5 | W6
 7 | 7.5 | 7.5/8 | 8 | 8.5 | 9 
 
 
-### Phase 1 - Power / Maximum strength
+### Phase 1 - Power / Maximum strength (6 weeks)
 
-- 6 weeks, AB/off/AB/off/off
 - Double Clean&Press 5RM
 - Double Front Squat:
   - same 5RM as c&p
@@ -29,6 +28,7 @@ W1 | W2 | W3 | W4 | W5 | W6
   - double all reps to c&p
   - 30' 
 - One hand snatch 10RM
+  - 20' 
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- | --- 
@@ -39,15 +39,15 @@ Snatch | x2,4 | x3,5 | x4,6 | x3,5 | x4,6 | x5,7
 C&P/FSQ | x2 | x3 | x2,4 | x3,4,5 | x4,5 | x4,6
 
 
-### Phase 2 - Strength-endurance / Power-endurance / Muscle / Get leaner
+### Phase 2 - Strength-endurance / Power-endurance / Muscle / Get leaner (6 weeks)
 
-- 6 weeks, AB/off/AB/off/off
 - Double Clean&Press 5RM
 - Double Front Squat:
   - same 5RM as c&p
   - double all reps to c&p
   - 30' 
 - One hand snatch 10RM
+  - 20' 
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- | ---
