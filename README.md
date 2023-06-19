@@ -2,6 +2,7 @@
 
 - [kettlebell_strong.md](kettlebell_strong.md)
 - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
+- [kettlebell_maximorum.md](kettlebell_maximorum.md)
 
 ## Dry Fighting Weight - RMX
 ```
