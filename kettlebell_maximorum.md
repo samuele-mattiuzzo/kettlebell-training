@@ -18,6 +18,7 @@
 - rows/pulls every training day
 
 ### RPEs
+
 W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- 
 7 | 7.5 | 7.5/8 | 8 | 8.5 | 9 
