@@ -67,5 +67,4 @@ Abs (optional)
 - Ab wheel 3x10
 - Hollow hold / plank 3x40-60seconds
 
-On week 6: deload, use half the volume (round down). No conditioning
 ```
