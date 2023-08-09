@@ -14,8 +14,8 @@
 - breathing and stretching
 
 ### Extra
-- direct abs work after snatch days
-- rows/pulls every training day
+- SNATCH  days: chinups + dips (50 reps each)
+- C&P/FSQ days: renegade rows (50 reps) + abs (50-100 reps)
 
 ### RPEs
 
