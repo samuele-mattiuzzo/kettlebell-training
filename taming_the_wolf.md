@@ -19,7 +19,7 @@ Phase 2: 23/10/2023 - 22/12/2023
 
 Phase 3: 1/1/2024 - 10/2/2024 
 
-### Phase 1 - YDKS 1.0 (6 weeks)
+### Phase 1 option 1 - YDKS 1.0 (6 weeks)
 ```
 D1 ydks: fsq + press
   - btb + rows: 10'x7 + 10'x7
@@ -36,6 +36,25 @@ D5 ydks: fsq + dsn
 DAY | W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- | ---
 Mon/Wed/Fri | 4reps@20' | 5reps@20' | 5reps@20' | 4reps@20' | 5reps@20' | 6reps@20'
+
+### Phase 1 option 2 - Lucky 13 (6 weeks)
+```
+D1 ydks: dsw + dcln + alternating reverse lunge + see-saw press (5 reps + 5 each leg)
+  - btb + rows: 10'x7 + 10'x7
+D2 more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
+  - btb 20'x10 + ab wheel 3-5 x 8-10
+D3 ydks: dcln + dpress + dfsq (5 reps)
+  - btb + rows: 10'x8 + 10'x8
+D4  more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
+  - btb 20'x12 + ab wheel 3-5 x 8-10
+D5 ydks: dsn + dpress + alternating reverse lunge + dcln + dfsq (5 reps + 5 each leg)
+  - btw + rows: 10'x9 + 10'x9
+```
+
+DAY | W1 | W2 | W3 | W4 | W5 | W6
+--- | --- | --- | --- | --- | --- | ---
+Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5
+
 
 ### Phase 2 - YDKS 2.0 (9 weeks)
 ```
