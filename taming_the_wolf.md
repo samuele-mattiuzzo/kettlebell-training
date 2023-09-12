@@ -13,6 +13,12 @@
 - 5-10 minutes
 - breathing and stretching
 
+Phase 1: 11/09/2023 - 20/10/2023
+
+Phase 2: 23/10/2023 - 22/12/2023
+
+Phase 3: 1/1/2024 - 10/2/2024 
+
 ### Phase 1 - YDKS 1.0 (6 weeks)
 ```
 D1 ydks: fsq + press
