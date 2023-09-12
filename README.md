@@ -4,6 +4,7 @@
 - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
 - [kettlebell_maximorum.md](kettlebell_maximorum.md)
 - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
+- [taming_the_wolf.md](taming_the_wolf.md)
 
 ## Dry Fighting Weight - RMX
 ```
