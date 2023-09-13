@@ -21,15 +21,17 @@ Phase 3: 1/1/2024 - 10/2/2024
 
 ### Phase 1 - You Don't Know Squat 2.0 (9 weeks)
 ```
-D1 ydks: fsq + dsw + fsq + dcln (3 reps)
+ydks days: 3 reps
+
+D1 ydks: fsq + dsw + fsq + dcln
   - btb + rows: 10'x9 + 10'x9
 D2 more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R (2 rounds)
   - btb 20'x12 + ab wheel 3-5 x 8-10
-D3 ydks: fsq + dcln + fsq + press + fsq + swing (3 reps)
+D3 ydks: fsq + dcln + fsq + press + fsq + swing
   - btb + rows: 10'x8 + 10'x8
 D4  more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R (2 rounds)
   - btb 20'x10 + ab wheel 3-5 x 8-10
-D5 ydks: fsq + dsn + fsq + press + fsq + dcln + fsq + pushpress (3 reps)
+D5 ydks: fsq + dsn + fsq + press + fsq + dcln + fsq + pushpress
   - btb + rows: 10'x7 + 10'x7
 ```
 
@@ -37,7 +39,7 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
-### Phase 2 - YDKS 1.0 (6 weeks)
+### Phase 2 - You Don't Know Squat 1.0 (6 weeks)
 ```
 D1 ydks: fsq + press
   - swing season / rows: 10'x7
@@ -53,12 +55,16 @@ D5 ydks: fsq + dsn
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6
 --- | --- | --- | --- | --- | --- | ---
-Mon/Wed/Fri | 4reps@20' | 5reps@20' | 5reps@20' | 4reps@20' | 5reps@20' | 6reps@20'
+Mon/Wed/Fri | 4reps@20' | 5reps@20' | 6reps@20' | 5reps@20' | 6reps@20' | 7reps@20'
 
-Swing season: 8 -> 9 -> 10 -> 11 -> 12 -> 10 -> 11 -> 12 -> 13 -> 14 -> 15 -> 13 -> 14
-
-15 -> 16 -> 17 -> 18 -> 16 -> 17 -> 18 -> 19 -> 20 -> 18-> 19 -> 20 -> 21
-
+```
+Swing season: -> 8 -> 9 -> 10 -> 11 -> 12
+              -> 10 -> 11 -> 12 -> 13 -> 14
+              -> 15 -> 13 -> 14 -> 15 -> 16
+              -> 17 -> 18 -> 16 -> 17 -> 18
+              -> 19 -> 20 -> 18 -> 19 -> 20
+              -> 21 -> 19 -> 20 -> 21 -> 22
+```
 
 ### Phase 3 - THE WOLF (6 weeks)
 ```
