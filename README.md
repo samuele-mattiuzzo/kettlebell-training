@@ -1,10 +1,15 @@
 # KETTLEBELL PROGRAMMING
 
-- [kettlebell_strong.md](kettlebell_strong.md)
-- [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
-- [kettlebell_maximorum.md](kettlebell_maximorum.md)
-- [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
-- [taming_the_wolf.md](taming_the_wolf.md)
+- Geoff Neupert programs
+  - [kettlebell_strong.md](kettlebell_strong.md)
+  - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
+  - [kettlebell_maximorum.md](kettlebell_maximorum.md)
+  - [taming_the_wolf.md](taming_the_wolf.md)
+  - [kettlebell_burn_training.md](kettlebell_burn_training.md)
+
+- Pat Flynn programs
+  - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
+  - [pat_flynn_4_weeks_s_&_c.md](pat_flynn_4_weeks_s_&_c.md)
 
 ## Dry Fighting Weight - RMX
 ```
