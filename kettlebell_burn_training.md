@@ -12,7 +12,7 @@ Days | 1 | 2 | 3 | 4 | 5 | 6 | 7
 reps/lift | c&p+fsq | sw/sn | c&p+fsq | sw/sn | c&p+fsq | sw/sn | / 
 w1 | x1,2,3 | sw20 | x3 | sn20 | x2 | sw25 | / 
 w2 | x1,2,3 | sn20 | x3 | sw30 | x2 | sn20 | / 
-w3 | x1,2,3 | s20 | x3 | sn20 | x2 | sw25 | / 
+w3 | x1,2,3 | sw20 | x3 | sn20 | x2 | sw25 | / 
 
 ### Phase 2 - Week 4
 
