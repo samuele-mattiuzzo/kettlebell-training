@@ -9,7 +9,7 @@
 
 - Pat Flynn programs
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
-  - [pat_flynn_4_weeks_s_&_c.md](pat_flynn_4_weeks_s_&_c.md)
+  - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
 
 ## Dry Fighting Weight - RMX
 ```
