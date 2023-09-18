@@ -13,6 +13,10 @@
 - 5-10 minutes
 - breathing and stretching
 
+### Notes:
+- always add a back pull (chinups / pullups / rows) and ab wheel 3-5 sets at the end of d1/3/5
+- on d2/4/6/7 do some conditioning (Quick&Dead, ABC, 300 swings) and 10' of core
+
 Phase 1: 11/09/2023 - 10/11/2023
 
 Phase 2: 13/11/2023 - 22/12/2023
@@ -24,15 +28,14 @@ Phase 3: 1/1/2024 - 10/2/2024
 ydks days: 3 reps
 
 D1 ydks: fsq + dsw + fsq + dcln
-  - btb + rows: 10'x9 + 10'x9
-D2 more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R (2 rounds)
-  - btb 20'x12 + ab wheel 3-5 x 8-10
+
 D3 ydks: fsq + dcln + fsq + press + fsq + swing
-  - btb + rows: 10'x8 + 10'x8
-D4  more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R (2 rounds)
-  - btb 20'x10 + ab wheel 3-5 x 8-10
+
 D5 ydks: fsq + dsn + fsq + press + fsq + dcln + fsq + pushpress
-  - btb + rows: 10'x7 + 10'x7
+
+- week 1, 4, 7 = dsn on day 3
+- week 2, 5, 8 = dsn on day 2 instead of swing (move to head of complex, replace day 3 with high pulls)
+- week 3, 6, 9 = dsn on day 1 instead of swing (move to head of complex, replace day 3 with high pulls)
 ```
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
@@ -42,15 +45,10 @@ Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1
 ### Phase 2 - You Don't Know Squat 1.0 (6 weeks)
 ```
 D1 ydks: fsq + press
-  - swing season / rows: 10'x7
-D2 more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
-  - swing season 20' / ab wheel 3-5 x 8-10
+
 D3 ydks: fsq + dcln + press
-  - swing season / rows: 10'x8
-D4  more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
-  - swing season 20'/  ab wheel 3-5 x 8-10
+
 D5 ydks: fsq + dsn
-  - swing season / rows: 10'x9
 ```
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6
@@ -69,9 +67,9 @@ Swing season: -> 8 -> 9 -> 10 -> 11 -> 12
 ### Phase 3 - THE WOLF (6 weeks)
 ```
 D1 the wolf: clean + fsq + press + clean + fsq (5 reps)
-D2 more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
+
 D3 the wolf: fsq + press + clean + fsq (5 reps)
-D4  more core: getup L, press, windmill, oh squat, press, snatch L x 2 then reverse for R
+
 D5 the wolf: snatch + fsq + press + fsq + clean + fsq (5 reps)
 ```
 
