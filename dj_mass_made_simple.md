@@ -20,5 +20,15 @@ A1, rest, B1, rest, C1, go for a walk
 
 ## Nutrition
 ```
-TBD
+- Eat a lot
+
+Breakfast: 500g high-protein greek yogurt, with berries, granola and/or honey (50g protein)
+
+Snack: Two scoop protein shake / peanut butter / banana (optional, 50g protein)
+
+Lunch 1: 1.5 can tuna or 1.5 chicken breasts, rice, veggies (40g protein)
+
+Lunch 2: 1.5 can tuna or 1.5 chicken breasts, rice, veggies (40g protein)
+
+Dinner: dinner rich in whole foods and meat (30-50g protein)
 ```
