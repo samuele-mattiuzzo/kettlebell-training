@@ -10,6 +10,10 @@
 - Pat Flynn programs
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
   - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
+ 
+- Pavel Tsatsouline / Dan John programs
+  - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
+  - [dj_mass_made_simple.md](dj_mass_made_simple.md)
 
 ## Dry Fighting Weight - RMX
 ```
