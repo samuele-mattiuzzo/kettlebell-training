@@ -27,16 +27,6 @@ w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
 ```
 
-## The Wolf
-```
-5 reps
-D1: press + fsq + press + clean + fsq
-D2: fsq + press + clean + fsq
-D3: snatch + fsq + press + fsq + clean + fsq
-
-[10rm] 9 weeks: 3x/4x/5x, w:r = 1:2/1:1.5/1:1
-```
-
 ## Lucky 13
 ```
 5 reps + 5 each leg
@@ -63,16 +53,6 @@ W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
 
 8 -> 9 -> 10 -> 11 -> 12 -> 10 -> 11 -> 12 -> 13 -> 14 -> 15 -> 13 -> 14
 15 -> 16 -> 17 -> 18 -> 16 -> 17 -> 18 -> 19 -> 20 -> 18-> 19 -> 20 -> 21
-```
-
-## Mass Made Simple
-```
-- A1: press + row
-- B1: ABC: 2 cleans, 1 press, 3 fsq -> 10 rounds
-- C1: goblet or double front squats
-
-- A1 2,3,5,10 if floor / 2,3,5 if overhead, 1-5 sets
-- C1 work up to 50 reps
 ```
 
 ## The Giant (1.0, 1.1, 1.2, 3)
