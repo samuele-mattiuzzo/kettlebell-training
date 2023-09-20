@@ -14,6 +14,7 @@
 - Pavel Tsatsouline / Dan John programs
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
+  - [dj_challenge_workouts.md](dj_challenge_workouts.md)
 
 ## Dry Fighting Weight - RMX
 ```
