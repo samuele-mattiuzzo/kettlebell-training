@@ -3,7 +3,7 @@
 - Personal log:
    - 11/09/23 -> 10/02/24 : [taming_the_wolf.md](taming_the_wolf.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
-   - 01/02/23 -> 30/060/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
+   - 01/02/23 -> 30/06/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
 
 - Geoff Neupert programs
   - [kettlebell_strong.md](kettlebell_strong.md)
