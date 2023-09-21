@@ -42,22 +42,24 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
-### Phase 2 - You Don't Know Squat 1.0 (6 weeks)
+### Phase 2 - Super Circuit 2.0 (6 weeks)
 ```
-D1 ydks: fsq + press
+1 block = session A + session B
 
-D3 ydks: fsq + dcln + press
+Session A: renegade row + clean + front squat + press
 
-D5 ydks: fsq + dsn
+Session B: clean + front squat + snatch + renegade row
 ```
 
-DAY | W1 | W2 | W3 | W4 | W5 | W6
---- | --- | --- | --- | --- | --- | ---
-Mon/Wed/Fri | 4reps@20' | 5reps@20' | 6reps@20' | 5reps@20' | 6reps@20' | 7reps@20'
+DAY | Block1 | Block2 | Block3 | Block4 | Block5 | Block6 | Block7 | Block8 | Block9
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Mon/Wed/Fri | 2reps@30' | 3reps@30' | 4reps@30' | 3reps@30' | 4reps@30' | 5reps@30' | 4reps@30' | 5reps@30' | 6reps@30'
 
 
 ### Phase 3 - THE WOLF (6 weeks)
 ```
+wolf days: 5 reps
+
 D1 the wolf: clean + fsq + press + clean + fsq (5 reps)
 
 D3 the wolf: fsq + press + clean + fsq (5 reps)
