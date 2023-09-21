@@ -1,10 +1,12 @@
 # KETTLEBELL PROGRAMMING
 
+- Personal log:
+   - 11/09/23 -> 10/02/24 : [taming_the_wolf.md](taming_the_wolf.md)
+
 - Geoff Neupert programs
   - [kettlebell_strong.md](kettlebell_strong.md)
   - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
-  - [taming_the_wolf.md](taming_the_wolf.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
 
 - Pat Flynn programs
