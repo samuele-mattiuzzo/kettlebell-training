@@ -140,3 +140,29 @@ select a heavy lift, do one rep every 30''
    - time: 10 to 40'
    - emom: 30'' or 60''
 ```
+
+## Soju and Tuba
+```
+grease the groove style approach
+use a kb 1 size lighter (4kg) than 1RM
+18 workouts (3-4 times x week)
+
+1. 4x1
+2. 6x1
+3. 10x1
+4. 12x1
+5. 14x1
+6. 3x2
+7. 4x2
+8. 5x2
+9. 6x2
+10. 7x2
+11. 8x2
+12. 2x3
+13. 3x3
+14. 4x3
+15. 5x3
+16. 6x3
+17. 7x3
+18. 1 x test set
+```
