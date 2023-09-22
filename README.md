@@ -131,3 +131,12 @@ w2: 335x3, 345x2, 345x3
 w3: 445x2, 445x3, 455x2
 w4: 455x3, 555x2, 555x3
 ```
+
+## Outer Limits protocol
+```
+select a heavy lift, do one rep every 30''
+
+- ways to modify:
+   - time: 10 to 40'
+   - emom: 30'' or 60''
+```
