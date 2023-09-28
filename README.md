@@ -10,6 +10,7 @@
   - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
+  - [kettlebell_wod.md](kettlebell_wod.md)
 
 - Pat Flynn programs
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
