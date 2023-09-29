@@ -16,10 +16,11 @@
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
   - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
  
-- Pavel Tsatsouline / Dan John programs
+- Other programs:
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
   - [dj_challenge_workouts.md](dj_challenge_workouts.md)
+  - [kettlebear.md](kettlebear.md)
 
 ## Dry Fighting Weight - RMX
 ```
@@ -79,13 +80,6 @@ Phase2: 2,3(L) / 2,3,5(M) / 2,3,5,10(H)
 off days: 20on/20off swings, mobility
 ```
 
-## KettleBear
-```
-2-3x week, 30 to 60'
-Start: clean&press (1,2,3) + fsq (3-5) x8, 1/2' rest
-Goal: clean&press (1,2,3,4,5) + fsq (8) x10+, 1/2' rest
-150 c&p + 80fsq per session end goal
-```
 
 ## Built Strong Minimalist
 ```
