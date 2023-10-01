@@ -32,10 +32,6 @@ D1 ydks: fsq + dsw + fsq + dcln
 D3 ydks: fsq + dcln + fsq + press + fsq + swing
 
 D5 ydks: fsq + dsn + fsq + press + fsq + dcln + fsq + pushpress
-
-- week 1, 4, 7 = dsn on day 3
-- week 2, 5, 8 = dsn on day 2 instead of swing (move to head of complex, replace day 3 with high pulls)
-- week 3, 6, 9 = dsn on day 1 instead of swing (move to head of complex, replace day 3 with high pulls)
 ```
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
