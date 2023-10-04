@@ -21,6 +21,7 @@
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
   - [dj_challenge_workouts.md](dj_challenge_workouts.md)
   - [kettlebear.md](kettlebear.md)
+  - [sfg_I_training_plan.md](sfg_I_training_plan.md)
 
 ## Dry Fighting Weight - RMX
 ```
