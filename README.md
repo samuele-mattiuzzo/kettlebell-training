@@ -6,6 +6,7 @@
    - 01/02/23 -> 30/06/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
 
 - Geoff Neupert programs
+  - [easy_muscle.md](geoff_neupert_easy_muscle.md) 
   - [kettlebell_strong.md](kettlebell_strong.md)
   - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
