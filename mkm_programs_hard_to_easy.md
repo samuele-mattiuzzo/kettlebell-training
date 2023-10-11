@@ -1,15 +1,9 @@
 # More Kettlebell Muscle - ranked hardest to easiest
 
-Format:
 - described as **sets@work:rest ratio**
 - the `/` and `,` denote change of week `w1/w2/w3` etc
+- total 129 weeks / 32 months / 2 years 8 months
 
-
-### Total length
-
-- Weeks: 108
-- Months: 27
-  
 ### Programs
 
 1. The A & P (6 weeks)
@@ -145,7 +139,7 @@ D2: swing, high pull, snatch, fsqx5, jerk
 D3: snatch, high pull, swing
 ```
 
-13. Jerk Werk
+13. Jerk Werk (6 weeks)
 
 ```
 3 days | 10RM snatch | Ladders
@@ -191,7 +185,7 @@ D2: fsq, clean, fsq, press, fsq, swing
 D3: fsq, snatch, fsq, press, fsq, clean fsq, pushpress
 ```
 
-17. Sir Snatch a Lot
+17. Sir Snatch a Lot (6 weeks)
 
 ```
 3 days | 6 reps
