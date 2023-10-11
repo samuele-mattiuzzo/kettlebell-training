@@ -12,6 +12,7 @@
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
   - [kettlebell_wod.md](kettlebell_wod.md)
+  - [mkm_programs_hard_to_easy.md](mkm_programs_hard_to_easy.md)
 
 - Pat Flynn programs
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
@@ -34,26 +35,6 @@ w2: 1,2,3     / 2 / 3
 w3: 1,2,3,4   / 2 / 3
 w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
-```
-
-## Lucky 13
-```
-5 reps + 5 each leg
-D1: dsw + dcln + alternating reverse lunge + see-saw press
-D2: dcln + dpress + dfsq
-D3: dsn + dpress + alternating reverse lunge + dcln + dfsq
-
-[10 rm] 6 weeks 3x/4x/5x, w:r = 1:2/1:1.5
-```
-
-## Clean 'em Up - remixed
-```
-7 reps
-D1: clean + fsq + snatch
-D2: clean + press + clean + fsq + press
-D3: clean + press + fsq
-
-W 1/2/3/4/5: 3x/4x/5x/4x/5x, w:r = 1:2
 ```
 
 ## Swing Season
