@@ -24,6 +24,8 @@
   - [dj_challenge_workouts.md](dj_challenge_workouts.md)
   - [kettlebear.md](kettlebear.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
+  - [rite_of_passage.md](rite_of_passage.md)
+  - 
 
 ## Dry Fighting Weight - RMX
 ```
