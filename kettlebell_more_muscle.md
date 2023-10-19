@@ -8,6 +8,10 @@ M/L/H format, 3 days per week
 - D2 (light): Swing, Snatch, SeeSawPress (x5)
 - D3 (heavy): Clean, MilitaryPress, FrontSquat, PushPress, FrontSquat (x5)
 
+- D1 alt (medium): Swing, Clean, MilitaryPress, FrontSquat (x5)
+- D2 alt (light): Clean, MilitaryPress, FrontSquat (x5)
+- D3 alt (heavy): Swing, Clean, MilitaryPress, FrontSquat, Snatch (x5)
+
 Week | D1 sets x rest | D2 sets x rest | D3 sets x rest 
 --- | --- | --- | --- 
 1 | 4 x 120s | 4 x 90s | 3 x 120s 
@@ -24,6 +28,10 @@ Week | D1 sets x rest | D2 sets x rest | D3 sets x rest
 - D2 (light): Swing, Snatch, SeeSawPress (x5)
 - D3 (heavy): FrontSquat, Snatch, MilitaryPress, Clean+PushPress, FrontSquat (x5)
 
+- D1 alt (medium): Swing, Clean+MilitaryPress, FrontSquat (x5)
+- D2 alt (light): Clean+MilitaryPress, FrontSquat (x5)
+- D3 alt (heavy): Swing, Clean+MilitaryPress, FrontSquat, Snatch (x5)
+  
 Week | D1 sets x rest | D2 sets x rest | D3 sets x rest 
 --- | --- | --- | --- 
 1 | 3 x 120s | 4 x 90s | 3 x 150s 
