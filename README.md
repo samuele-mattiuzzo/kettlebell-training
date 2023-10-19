@@ -25,7 +25,7 @@
   - [kettlebear.md](kettlebear.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
   - [rite_of_passage.md](rite_of_passage.md)
-  - 
+  - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
 
 ## Dry Fighting Weight - RMX
 ```
