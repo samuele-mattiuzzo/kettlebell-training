@@ -51,6 +51,25 @@ DAY | Block1 | Block2 | Block3 | Block4 | Block5 | Block6 | Block7 | Block8 | Bl
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Mon/Wed/Fri | 2reps@30' | 3reps@30' | 4reps@30' | 3reps@30' | 4reps@30' | 5reps@30' | 4reps@30' | 5reps@30' | 6reps@30'
 
+### Phase 2 - King Size Combos
+```
+Step progression
+
+D1: snatch + front squat
+
+D2: snatch + push press
+
+D3: snatch + push press + front squat
+
+30/40/50/60% step progression
+16kg = 5/6RM
+30:1, 40:2, 50:3, 60:4, 80:5, 100:6
+```
+
+DAY | W1 | W2 | W3 | W4 | W5 | W6
+--- | --- | --- | --- | --- | --- | ---
+Mon/Wed/Fri | 3reps@30' | 4reps@30' | 5reps@30' | 4reps@30' | 5reps@30' | 6reps@30'
+
 
 ### Phase 3 - THE WOLF (6 weeks)
 ```
