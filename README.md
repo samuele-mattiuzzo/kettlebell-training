@@ -27,6 +27,7 @@
   - [rite_of_passage.md](rite_of_passage.md)
   - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
   - [kettlebell_axe.md](kettlebell_axe.md)
+  - [kb_workout_snacks.md](kb_workout_snacks.md)
 
 ## Dry Fighting Weight - RMX
 ```
