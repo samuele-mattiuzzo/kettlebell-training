@@ -25,6 +25,7 @@
   - [kettlebear.md](kettlebear.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
   - [rite_of_passage.md](rite_of_passage.md)
+  - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
   - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
   - [kettlebell_axe.md](kettlebell_axe.md)
   - [kb_workout_snacks.md](kb_workout_snacks.md)
