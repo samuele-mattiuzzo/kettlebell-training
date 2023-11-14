@@ -44,7 +44,7 @@ D1 M: clean + squat + press + swing
 
 D2 L: clean + squat + press
 
-D3 H: clean + squat + press + swing + squat
+D3 H: squat + press + clean + squat + press
 ```
 
 DAY | W1 | W2 | W3 | W4 | W5 | W6 
