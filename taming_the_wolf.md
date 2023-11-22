@@ -21,8 +21,6 @@ Phase 1: 11/09/2023 - 10/11/2023
 
 Phase 2: 13/11/2023 - 22/12/2023
 
-Phase 3: 1/1/2024 - 10/2/2024 
-
 ### Phase 1 - You Don't Know Squat 2.0 (9 weeks)
 ```
 ydks days: 3 reps
@@ -38,21 +36,8 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
-### Phase 2 - ATOS (6 weeks)
-```
-D1 M: clean + squat + press + swing
 
-D2 L: clean + squat + press
-
-D3 H: squat + press + clean + squat + press
-```
-
-DAY | W1 | W2 | W3 | W4 | W5 | W6 
---- | --- | --- | --- | --- | --- | ---
-Mon/Wed/Fri | 4repsx3sets | 4repsx4sets | 4repsx5sets | 5repsx3sets | 5repsx4sets | 5repsx5sets
-
-
-### Phase 3 - THE WOLF (6 weeks)
+### Phase 2 - THE WOLF (6 weeks)
 ```
 wolf days: 5 reps
 
