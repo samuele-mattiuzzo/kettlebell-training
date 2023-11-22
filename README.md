@@ -1,7 +1,8 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 11/09/23 -> 10/02/24 : [taming_the_wolf.md](taming_the_wolf.md)
+   - [temporary] Jan '24, 12-13 weeks: BTS4/BS6 
+   - 11/09/23 -> 22/12/23 : [taming_the_wolf.md](taming_the_wolf.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
    - 01/02/23 -> 30/06/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
 
