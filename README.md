@@ -11,12 +11,10 @@
   - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
-  - [kettlebell_wod.md](kettlebell_wod.md)
   - [mkm_programs_hard_to_easy.md](mkm_programs_hard_to_easy.md)
 
 - Pat Flynn programs
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
-  - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
  
 - Other programs:
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
