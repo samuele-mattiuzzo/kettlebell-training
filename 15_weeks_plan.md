@@ -41,7 +41,7 @@ Mixed training (ATOS complex, Simple Muscle)
 Q&D / AXE every other day
 ```
 
-### Phase 2 - SIMPLE MUSCLE (5 weeks)
+### Phase 3 - SIMPLE MUSCLE (5 weeks)
 ```
 D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL
 D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL
