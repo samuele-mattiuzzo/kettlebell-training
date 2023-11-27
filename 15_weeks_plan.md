@@ -35,47 +35,25 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
 
-### Phase 2 - Mixed training (2 weeks)
+### Phase 2 - Mixed training (1 week)
 ```
 Mixed training (ATOS complex, Simple Muscle)
 Q&D / AXE every other day
 ```
 
-### Phase 3 - THE CRUISER (4 weeks)
+### Phase 2 - SIMPLE MUSCLE (5 weeks)
 ```
-D1: Medium clean/press | Light squat/gorilla row
-D3: Heavy squat/gorilla row | Light clean/press]
-D5: Heavy clean/press | Medium squat/gorilla row
+D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL
+D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL
+D5: press 8,8,8 e1.5mom   | squat 8,8,8 e1.5mom   | 3x20 DL
 
-Rep maxes / reps (L|M|H):
- - clean: 16kg -> 10RM (3 | 3,5 | 3,5,7)
- - press: 16kg -> 10RM (3 | 3,5 | 3,5,7)
- - squat: 16kg -> 10RM (3 | 3,5 | 3,5,7)
- - row  : 16kg -> 10rm (3 | 3,5 | 3,5,7)
+W1: 2 rounds
+W2: 3 rounds
+W3: 2 rounds
+W4: 3 rounds
+W5: 4 rounds
 
-Dice rolls / NL:
-- clean, press, squat, row
-
-Week 1: 1,4,5,1
-Week 2: 4,6,2,6
-Week 3: 6,1,5,4
-Week 4: 3,3,1,1
-
-  - H: 25c, 47p, 47s, 25r
-  - L: 15c, 28p, 28s, 15r
-  - M: 20c, 37p, 37s, 20r
-
-  - H: 47c, 59p, 37s, 59r
-  - L: 28c, 35p, 22s, 35r
-  - M: 37c, 46p, 29s, 46r
-
-  - H: 59c, 25p, 47s, 47r
-  - L: 35c, 15p, 28s, 28r
-  - M: 46c, 20p, 37s, 37r
-
-  - H: 37c, 37p, 25s, 25r
-  - L: 22c, 22p, 15s, 15r
-  - M: 29c, 29p, 20s, 20r
+D2/4: 20' of double kb cleans (straight: 6,4,10 | ladders 3,5,8/2,3,5/4,6,10)
 ```
 
 
