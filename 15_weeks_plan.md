@@ -47,11 +47,11 @@ D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL
 D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL
 D5: press 8,8,8 e1.5mom   | squat 8,8,8 e1.5mom   | 3x20 DL
 
-W1: 2 rounds
-W2: 3 rounds
-W3: 2 rounds
-W4: 3 rounds
-W5: 4 rounds
+W1: 2 rounds (16-18' total)
+W2: 3 rounds (24-27' total)
+W3: 2 rounds (16-18' total)
+W4: 3 rounds (24-27' total)
+W5: 4 rounds (32-34' total)
 
 D2/4: 20' of double kb cleans (straight: 6,4,10 | ladders 3,5,8/2,3,5/4,6,10)
 ```
