@@ -13,21 +13,22 @@
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
   - [mkm_programs_hard_to_easy.md](mkm_programs_hard_to_easy.md)
-
-- Pat Flynn programs
-  - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
  
-- Other programs:
+- SFG programs:
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
-  - [dj_mass_made_simple.md](dj_mass_made_simple.md)
-  - [dj_challenge_workouts.md](dj_challenge_workouts.md)
-  - [kettlebear.md](kettlebear.md)
+  - [kettlebell_axe.md](kettlebell_axe.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
   - [rite_of_passage.md](rite_of_passage.md)
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
+  - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
+    
+- Other programs:
+  - [dj_mass_made_simple.md](dj_mass_made_simple.md)
+  - [dj_challenge_workouts.md](dj_challenge_workouts.md)
+  - [kettlebear.md](kettlebear.md)
   - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
-  - [kettlebell_axe.md](kettlebell_axe.md)
   - [kb_workout_snacks.md](kb_workout_snacks.md)
+  - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
 
 ## Dry Fighting Weight - RMX
 ```
