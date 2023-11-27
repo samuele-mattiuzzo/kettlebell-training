@@ -48,27 +48,34 @@ D3: Heavy squat/gorilla row | Light clean/press]
 D5: Heavy clean/press | Medium squat/gorilla row
 
 Rep maxes / reps (L|M|H):
- -TBD
+ - clean: 16kg -> 10RM (3 | 3,5 | 3,5,7)
+ - press: 16kg -> 10RM (3 | 3,5 | 3,5,7)
+ - squat: 16kg -> 10RM (3 | 3,5 | 3,5,7)
+ - row  : 16kg -> 10rm (3 | 3,5 | 3,5,7)
 
 Dice rolls / NL:
-- pres,clean,squat,row
+- clean, press, squat, row
 
-Week 1: 4,1,5,1
-  - H: 47, 25, 47, 25
-  - L: 28, 15, 28, 15
-  - M: 37, 20, 37, 20
-Week 2: 6,4,2,6
-  - H: 59, 47, 37, 59
-  - L: 35, 28, 22, 35
-  - M: 46, 37, 29, 46
-Week 3: 1,6,5,4
-  - H: 25, 59, 47, 47 
-  - L: 15, 35, 28, 28
-  - M: 20, 46, 37, 37
+Week 1: 1,4,5,1
+Week 2: 4,6,2,6
+Week 3: 6,1,5,4
 Week 4: 3,3,1,1
-  - H: 37, 37, 25, 25
-  - L: 22, 22, 15, 15
-  - M: 29, 29, 20, 20
+
+  - H: 25c, 47p, 47s, 25r
+  - L: 15c, 28p, 28s, 15r
+  - M: 20c, 37p, 37s, 20r
+
+  - H: 47c, 59p, 37s, 59r
+  - L: 28c, 35p, 22s, 35r
+  - M: 37c, 46p, 29s, 46r
+
+  - H: 59c, 25p, 47s, 47r
+  - L: 35c, 15p, 28s, 28r
+  - M: 46c, 20p, 37s, 37r
+
+  - H: 37c, 37p, 25s, 25r
+  - L: 22c, 22p, 15s, 15r
+  - M: 29c, 29p, 20s, 20r
 ```
 
 
