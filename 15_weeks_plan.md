@@ -43,13 +43,13 @@ Q&D / AXE every other day
 
 ### Phase 3 - SIMPLE MUSCLE (5 weeks)
 ```
-D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL
-D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL
-D5: press 8,8,8 e1.5mom   | squat 8,8,8 e1.5mom   | 3x20 DL
+D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL / ROW / PUSHUP
+D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL / ROW / PUSHUP
+D5: press 8,8,8 e1.5mom   | squat 8,8,8 e1.5mom   | 3x20 DL / ROW / PUSHUP
 
 W1: 2 rounds (16-18' total)
 W2: 3 rounds (24-27' total)
-W3: 2 rounds (16-18' total)
+W3: 4 rounds (32-34' total)
 W4: 3 rounds (24-27' total)
 W5: 4 rounds (32-34' total)
 
