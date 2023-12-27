@@ -35,13 +35,7 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
 
-### Phase 2 - SIMPLE MUSCLE (4 Weeks)
-```
-Mixed training (ATOS complex, Simple Muscle)
-Q&D / AXE every other day
-```
-
-### Phase 3 - SIMPLE MUSCLE (5 weeks)
+### Phase 3 - SIMPLE MUSCLE (4 weeks)
 ```
 D1: press 6,6,6 emom + 1' | squat 6,6,6 emom + 1' | 2x20 DL / ROW / PUSHUP
 D3: press 4,4,4 emom + 1' | squat 4,4,4 emom + 1' | 1x20 DL / ROW / PUSHUP
