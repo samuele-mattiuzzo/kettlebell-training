@@ -35,7 +35,7 @@ DAY | W1 | W2 | W3 | W4 | W5 | W6 | W7 | W8 | W9
 Mon/Wed/Fri | x3@1:2 | x4@1:2 | x5@1:2 | x3@1:1.5 | x4@1:1.5 | x5@1:1.5 | x3@1:1 | x4@1:1 | x5@1:1
 
 
-### Phase 2 - Mixed training (1 week)
+### Phase 2 - SIMPLE MUSCLE (4 Weeks)
 ```
 Mixed training (ATOS complex, Simple Muscle)
 Q&D / AXE every other day
@@ -51,9 +51,22 @@ W1: 2 rounds (16-18' total)
 W2: 3 rounds (24-27' total)
 W3: 4 rounds (32-34' total)
 W4: 3 rounds (24-27' total)
-W5: 4 rounds (32-34' total)
 
-D2/4: 20' of double kb cleans (straight: 6,4,10 | ladders 3,5,8/2,3,5/4,6,10)
+D2/4: quick and the dead
+```
+
+### Phase 2.1 - Quick and the Dead (2 weeks)
+```
+- Easy Strength (2 days at a setXrep scheme)
+   - Double Press + Double Front Squat : 2x20kg -> 2x5, 3x3, 5x2
+   - Double Row + Double Deadlift : 2x20kg -> 1x10, 2x5, 3x3
+- Quick and the Dead: swings + pushups
+  W1: 4 rounds, 3 rounds, 5 rounds
+  W2: 5 days, 5 rounds
+
+Formats:
+  - either 5/4 + 10/2 or 1:30/1:30 (week 1)
+  - week 2: 10/2 or 1:30/1:30 alternated
 ```
 
 
