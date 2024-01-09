@@ -1,7 +1,11 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 08/01/24 -> 16/02/24 : MKM -> Sir Snatch A lot (1h snatch instead of 2h)
+   - 19/02/24 -> (TEMP) Rite of Passage with 24kg + 32kg 
+   - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
+   - 08/01/24 -> 16/02/24 :
+      - MWF: Sir Snatch A Lot (with 1h snatch) + SFG PLAN A 1h Jerks
+      - TuThFS: Quick&Dead 015 (swings + pushups)
    - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
    - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
