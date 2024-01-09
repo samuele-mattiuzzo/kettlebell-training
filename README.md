@@ -1,7 +1,7 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 08/01/24 -> 16/02/24 : [fast_tens.md](fast_tens.md)
+   - 08/01/24 -> 16/02/24 : MKM -> Sir Snatch A lot (1h snatch instead of 2h)
    - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
    - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
