@@ -4,12 +4,15 @@ M/L/H format, 3 days per week
 
 ### Weeks 1 - 6 Complexes
 
+Original
 - D1 (medium): HighPull, Snatch, MilitaryPress, FrontSquat (x5)
 - D2 (light): Swing, Snatch, SeeSawPress (x5)
 - D3 (heavy): Clean, MilitaryPress, FrontSquat, PushPress, FrontSquat (x5)
-- D1 alt (medium): Swing, Clean, MilitaryPress, FrontSquat (x5)
-- D2 alt (light): Clean, MilitaryPress, FrontSquat (x5)
-- D3 alt (heavy): Swing, Clean, MilitaryPress, FrontSquat, Snatch (x5)
+
+Modified
+- D1 alt (medium): Swing/HighPull, Clean, MilitaryPress, FrontSquat (x5)
+- D2 alt (light): Clean, PushPress/SeeSawPress, FrontSquat (x5)
+- D3 alt (heavy): Swing/HighPull, Clean, MilitaryPress, FrontSquat, Snatch/PushPress/Jerk (x5)
 
 Week | D1 sets x rest | D2 sets x rest | D3 sets x rest 
 --- | --- | --- | --- 
@@ -23,12 +26,15 @@ Week | D1 sets x rest | D2 sets x rest | D3 sets x rest
 
 ### Weeks 7 - 12 Complexes + Chain
 
+Original
 - D1 (medium): HighPull, Clean+MilitaryPress, Snatch, FrontSquat (x5)
 - D2 (light): Swing, Snatch, SeeSawPress (x5)
 - D3 (heavy): FrontSquat, Snatch, MilitaryPress, Clean+PushPress, FrontSquat (x5)
-- D1 alt (medium): Swing, Clean+MilitaryPress, FrontSquat (x5)
+
+Modified
+- D1 alt (medium): Swing/HighPull, Clean+MilitaryPress, FrontSquat (x5)
 - D2 alt (light): Clean+MilitaryPress, FrontSquat (x5)
-- D3 alt (heavy): Swing, Clean+MilitaryPress, FrontSquat, Snatch (x5)
+- D3 alt (heavy): Swing/HighPull, Clean+MilitaryPress, FrontSquat, Snatch/PushPress/Jerk (x5)
   
 Week | D1 sets x rest | D2 sets x rest | D3 sets x rest 
 --- | --- | --- | --- 
