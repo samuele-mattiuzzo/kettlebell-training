@@ -18,6 +18,7 @@
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
   - [kettlebell_axe.md](kettlebell_axe.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
+  - [sfg_plan_a_plan_b.md](sfg_plan_a_plan_b.md)
   - [rite_of_passage.md](rite_of_passage.md)
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
