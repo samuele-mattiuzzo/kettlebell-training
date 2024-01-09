@@ -1,7 +1,8 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 01/01/24 -> 25/03/24 : [geoff_neupert_ict.md](geoff_neupert_ict.md) (beta program)
+   - 08/01/24 -> 16/02/24 : [fast_tens.md](fast_tens.md)
+   - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
    - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
    - 01/02/23 -> 30/06/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
