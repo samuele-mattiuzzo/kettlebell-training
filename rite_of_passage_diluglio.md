@@ -16,10 +16,10 @@ Format: M/L/H over 6 weeks
 - Start with warmup
 - Do prescribed ladders of C&P + Pull (optional: 5x squats after each ladder)
 - Rest 1-2' after each ladder
-- Roll the dice to time the session
-  - D1 M: swing 25x (1-3) / 50x (4-6), rest 20'', repeat for time
-  - D3 L: snatch 10L, 10R, rest (1') repeat for time
-  - D5 H: swing 50x (1-3),r 10'' / 25x (4-6),r 5'' repeat for time
+- Roll two dice to time the session (2 to 12 minutes):
+  - D1 M: 10 2h swings or 5 1h swings, every 30''
+  - D3 L: snatch 5-10L, 5-10R OTM
+  - D5 H: 15-25 2h swings or 10L + 10R 1h swings, OTM
 ```
 
 ### Progression
