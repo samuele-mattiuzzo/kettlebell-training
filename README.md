@@ -4,8 +4,9 @@
    - 19/02/24 -> (TEMP) Rite of Passage with 24kg + 32kg 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
-      - MWF: Sir Snatch A Lot (with 1h snatch) + SFG PLAN A 1h Jerks
-      - TuThFS: Quick&Dead 015 (swings + pushups)
+      - MWF: [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
+         - 24kg bell (4rm) for C&P and swings, 20kg for snatch 
+      - TuThFS: Quick&Dead 015 (swings + pushups) or AXE with 1h jerks
    - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
    - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
    - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
