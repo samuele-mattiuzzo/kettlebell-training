@@ -4,10 +4,10 @@
    - 19/02/24 -> (TEMP) Rite of Passage or Giant again 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
-      - MWF: GIANT 3 + GIANT 1
-         - 1h clean & press 24kg (Giant 3 progression)
-         - goblet squat 32kg (Giant 1 progression)
-         - alternate one set of each for 40 minutes 
+      - MWF: GIANT 3 + GIANT 1 (A left + A right + B, 30 to 40 minutes)
+         - A: 1h clean & press 24kg (Giant 3 progression)
+         - B: goblet squat 32kg (Giant 1 progression)
+         - finisher: 3x5 24kg rows -> 5 to 8 sets of 10 swings + 10 pushups
       - TuTh: AXE (32kg swings for 20' then 20kg snatches for 20') + static core
       - SatSun: OS resets, mobility / stretching, static core
    - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
