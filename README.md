@@ -5,11 +5,10 @@
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
       - MWF 1: Soju & Tuba 24kg 
-      - MWF 2: GIANT 3 + GIANT 1 30 to 40' (alternate A and B)
+      - MWF 2: GIANT 3 (20 to 30')
          - A: 2x clean & press 20kg (Giant 3 progression / +1 rep)
-         - B: goblet squat 32kg (Giant 1 progression)
-         - finisher: 3x5 24kg rows -> 5 to 8 sets of 10 24kg swings [+ 10 pushups]
-      - TuTh: AXE (32kg swings for 20' then 20kg snatches for 20') + static core
+         - finisher: 5x5-10 bstance squats (32kg) + 5x5-10 24kg rows
+      - TuTh: 100 to 300 24kg swings or 20' AXE 32kg swings + ab wheel / static core
       - SatSun: OS resets, mobility / stretching, static core
    - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
    - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
