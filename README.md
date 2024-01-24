@@ -40,6 +40,7 @@
   - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
   - [kb_workout_snacks.md](kb_workout_snacks.md)
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
+  - [pat_flynn_10_5_3.md](pat_flynn_10_5_3.md)
 
 ## Dry Fighting Weight - RMX
 ```
