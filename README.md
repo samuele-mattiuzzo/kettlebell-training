@@ -41,6 +41,7 @@
   - [kb_workout_snacks.md](kb_workout_snacks.md)
   - [pat_flynn_fitness_plan.md](pat_flynn_fitness_plan.md)
   - [pat_flynn_10_5_3.md](pat_flynn_10_5_3.md)
+  - [the_monolith_kettlebell.md](the_monolith_kettlebell.md)
 
 ## Dry Fighting Weight - RMX
 ```
