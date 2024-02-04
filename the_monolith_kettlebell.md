@@ -1,0 +1,128 @@
+# The Lockdown Monolith
+
+All credit to Jim Wendler as this is basically a rip off of Building the Monolith using the limited range of workout equipment I have at home.
+
+# The tools:
+
+- Kettlebells in 8/12/16/20/24/32kg
+
+- Chin up bar (100kg max)
+
+- Dip belt
+
+- Resistance bands
+
+- Ab wheel
+
+If you distill Building the Monolith down you can look at it as waved progression for the big lifts med/easy/hard, whilst building a ton of volume with accessories.
+
+# Warm up
+```
+3 rounds, mostly taken from simple & sinister
+
+25x band pull aparts
+5x prying squats
+5x 3-second glute bridges
+5x halos
+```
+
+# Monday
+Volume squat
+
+- 5x5 double kettlebell front squats with imbalanced bells (eg 20&24).
+  Warm up would be goblet squats, then double front squats. Tried to increase reps over time.
+
+- Intensity kettlebell press.
+  Work up to a PR set in the 5-10 rep range then drop back one bell -> AMRAP.
+
+- Pull ups build up to 100
+
+- Dips 100-200
+
+- Kettlebell swings 100 (band face pulls if too fatigued from chinups)
+
+# Tuesday
+- Power cleans
+  5x3, add reps each week
+
+- Weighted dips.
+  5x5-8 and try to add reps or weight
+
+- Kettlebell rows
+  5x10-20
+
+- Kettlebell hammer curls 100
+
+- Band lateral raises 50-100
+
+# Friday
+- Intensity squat 
+  5x5+
+
+- Widowmaker squat
+  32kg bell and do goblet squats until failure -> 15+ reps
+
+- Volume kettlebell press
+  10-15 sets of 5 (use AMRAP weight from Monday)
+
+- Weighted pull ups
+  5x5 either added weight or reps each week
+
+- Kettlebell swings 100. Same as Monday.
+
+- Shrugs 100
+  30+ reps set
+
+# Cardio/conditioning
+3 runs a week, starting at 5k each
+
+```
+Diet
+So on Building the Monolith you are supposed to eat like a maniac. Instead I did a harsh cut and lost 1kg a week. Terrible idea? Probably. Still, I am enjoying myself and still seem to be increasing strength after the post baby crash.
+
+I saw a post by Paul Carter saying "you are too fat, stop kidding yourself it's muscle" and one by Dan John saying that after 35 you can probably only eat 2 meals a day. So I did. Lost about 7kg during this program, gained some abs and bicep veins!
+
+Setbacks
+Half way through I had to sleep on the sofa one night to look after the dog who kept being sick. This somehow threw my back out and I felt like shit.
+
+Took a "Pivot week" to do whatever the hell I felt like (that I was able to do) in order to recover. Ended up doing a crossfit murph, but with strict pullups and the weight vest in just over an hour and tried out push press with the 32kg bell managing a few sets of 2 reps. Pumped!
+```
+
+```
+PRs
+18 rep pull ups
+
+26 reps 32kg goblet squat
+
+21:34 5k run
+
+7 rep sandbag squat
+
+9 rep 24kg kettlebell press
+```
+
+# Conclusion
+Overall, you can do a weird program, with very limited equipment, on a bad diet, with a new baby and not enough sleep and if you just give it some welly... it might just work.
+
+```
+Related reading
+https://www.amazon.co.uk/ENTER-KETTLEBELL-Strength-Secret-Supermen/dp/0938045695
+
+https://www.amazon.co.uk/Hardstyle-Kettlebell-Challenge-Fundamental-Training-ebook/dp/B075SKVD4B
+
+https://www.amazon.co.uk/Kettlebell-Simple-Sinister-Revised-Updated/dp/0989892433
+
+https://jimwendler.com/blogs/jimwendler-com/101078918-building-the-monolith-5-3-1-for-size
+
+https://www.amazon.co.uk/Tactical-Barbell-II-Conditioning-Black-ebook/dp/B0143HDCWS
+
+https://jimwendler.com/products/5-3-1-forever-book
+
+https://www.t-nation.com/workouts/10000-swing-kettlebell-workout
+
+https://www.t-nation.com/workouts/the-10000-swing-kettlebell-workout-revisited
+
+https://www.t-nation.com/diet-fat-loss/get-inside-out-peeled
+
+https://www.youtube.com/watch?v=YvTHFqt5g4A
+```
