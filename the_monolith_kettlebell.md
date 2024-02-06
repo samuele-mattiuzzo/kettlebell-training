@@ -4,11 +4,9 @@ All credit to Jim Wendler as this is basically a rip off of Building the Monolit
 
 # The tools:
 
-- Kettlebells in 8/12/16/20/24/32kg
+- Kettlebells in 2x16kg, 2x20kg, 1x24kg, 1x32kg
 
-- Chin up bar (100kg max)
-
-- Dip belt
+- Pullup/chins + dips bars / towers
 
 - Resistance bands
 
