@@ -179,3 +179,63 @@ use a kb 1 size lighter (4kg) than 1RM
 17. 7x3
 18. 1 x test set
 ```
+
+## Some Pat Flynn Complexes
+```
+Complex 1
+10 to 20' as many sets as possible / 5 rounds of:
+
+8 x single arm snatch, 5 x single arm clean and press, 3 x single arm squat ->
+8 x single arm clean and press, 5 x single arm squat, 3 x single arm snatch ->
+8 x single arm squat, 5 x single arm snatch, 3 x single arm clean and press
+
+Then switch sides and repeat.
+Try not to rest between exercises or sides.
+```
+
+```
+Swing Snatch ladder
+10 to 20' as many sets as possible of:
+
+1 swing followed by 1...5 snatch
+change sides
+1 swins followed by 1...5 snatch
+park, repeat
+```
+
+```
+Man Maker 2.0
+
+3 rounds of:
+2 double KB Cleans
+2 push-ups
+1L/1R renegade Row
+
+as many rounds as possible in 20'
+```
+
+```
+Bang For Buck
+
+5 x single arm swing
+    single arm clean AND press
+    single arm snatch
+    single arm squat
+1 x (reverse) Turkish get up
+
+Amrap 20'
+```
+
+```
+8-5-3 quadpump (5 rounds as fast as possible)
+8 goblet squats
+5 start-stop swings
+3 pushups
+
+swings/pushups ladders
+1 swing, 1 pushup
+2 swing, 2 pushup
+...
+5 swing, 5 pushup
+5 round
+```
