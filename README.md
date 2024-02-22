@@ -239,3 +239,30 @@ swings/pushups ladders
 5 swing, 5 pushup
 5 round
 ```
+
+## Russian Squat Masters
+```
+Phase 1 - Volume: 4 weeks, squat twice a week
+
+Workout 1: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 2: 60% x 3, 70% x 2, 80% x 3 x 6 sets
+Workout 3: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 4: 60% x 3, 70% x 2, 80% x 4 x 6 sets
+Workout 5: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 6: 60% x 3, 70% x 2, 80% x 5 x 6 sets
+Workout 7: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 8: 60% x 3, 70% x 2, 80% x 6 x 6 sets
+
+
+Phase 2 - Intensity: 4 weeks, squat twice a week
+
+Workout 9: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 10: 60% x 3, 70% x 2, 85% x 5 x 5 sets
+Workout 11: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 12: 60% x 3, 70% x 2, 90% x 4 x 4 sets
+Workout 13: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 14: 60% x 3, 70% x 2, 95% x 3 x 3 sets
+Workout 15: 60% x 3, 70% x 2, 80% x 2 x 6 sets
+Workout 16: 60% x 3, 70% x 2, 100% x 1, (105% x 1) (110% x 1)
+(Attempts in parenthesis are allowed extra PR attempts if the previous attempts were clearly submaximal.)
+```
