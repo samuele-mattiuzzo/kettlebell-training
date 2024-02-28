@@ -1,8 +1,14 @@
 # Prometheus Protocol - GVT style training
 
-- Stay with the same weight for 16 weeks
-- Format: ABA/BAB
-- 1 week deload (50% volume)
+- Stay with the same weight
+- Long course: 16 weeks, ABA/BAB format
+- Short course:
+  - 8 weeks
+  - Press-focus: ABA/ABA
+  - Dips-focus: BAB/BAB
+    
+- After 50% of the program: 1 week deload (5x5 sessions)
+  
 - Restart with heavier weights
 - Day 6/7   : GPP + mobility
 - GPP       : heavy 2h swings, double swings, double snatch
