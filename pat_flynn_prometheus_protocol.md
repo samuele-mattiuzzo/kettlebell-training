@@ -4,8 +4,8 @@
 - Long course: 16 weeks, ABA/BAB format
 - Short course:
   - 8 weeks
-  - Press-focus: ABA/ABA
-  - Dips-focus: BAB/BAB
+  - Press-focus (odd-numbered weeks): ABA/ABA
+  - Dips-focus (even-numbered weeks): BAB/BAB
     
 - After 50% of the program: 1 week deload (5x5 sessions)
   
