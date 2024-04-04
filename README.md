@@ -1,7 +1,8 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 19/02/24 -> (TEMP) Rite of Passage or Giant again 
+   - 25/03/24 -> BtS6 (12 weeks) 
+   - 19/02/24 -> The Giant / Prometheus 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
       - MWF 1: Soju & Tuba 24kg 
