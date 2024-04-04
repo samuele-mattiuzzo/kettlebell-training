@@ -56,6 +56,20 @@ w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
 ```
 
+## The minimum-maximum
+```
+Alternate days (M/W/F/Sun/Tue/Thu/Sat...)
+D1: heavy squats + light c&P
+D2: heavy c&P + light squats
+
+Heavy: 5RM / Light: 10RM
+
+Block A: 15-20' of as many reps of 5 (heavy)
+Block B: 15-20' of as many reps of 10 (light)
+
+Run for 6+ weeks, autoregulated
+```
+
 ## Swing Season
 ```
 2h swings, 20-30', 26 total workouts, emom
