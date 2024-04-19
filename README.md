@@ -282,3 +282,29 @@ Workout 15: 60% x 3, 70% x 2, 80% x 2 x 6 sets
 Workout 16: 60% x 3, 70% x 2, 100% x 1, (105% x 1) (110% x 1)
 (Attempts in parenthesis are allowed extra PR attempts if the previous attempts were clearly submaximal.)
 ```
+
+## HIRT for Hypertrophy
+```
+- The burn.
+Complete 25 heavy kettlebell swings (40-48kg for strong gentlemen; 20-24kg for strong ladies).
+These swings should be as powerful as possible.
+Once completed shake it off for a minute or two before starting the exercises you do in your ‘rest’ period.
+
+
+- Ten minutes of rest.
+Between sets of swings, you will do presses.
+You want your presses to be crisp and powerful. Please don’t grind out your last rep. Leave a rep in the tank on each set. Try to do three sets in that ten minutes:
+Minute 2: 7-8 reps at 65% of 1RM
+Minute 4: 3 reps at 85% of 1RM
+Minute 7: 5-6 reps at 75% of 1RM
+
+Do this program three days a week.
+Do low (3 rounds), medium (4 rounds), and heavy (5 rounds) volume throughout the week on this program.
+On other training days, you can weight train with squats and pull-ups if doing swings and presses.
+
+You will want to use the above hypertrophy program with one upper and one lower body choice. On alternate days, train the other body movements normally.
+Please avoid other glycolytic (the burn) types of exercises while on this program.
+
+Maintain this program for six weeks. Alternate between it and traditional HIRT training to maintain your gains and to keep progressing.
+```
+
