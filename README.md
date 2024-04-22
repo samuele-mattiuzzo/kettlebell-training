@@ -33,6 +33,7 @@
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
+  - [mixed_sfg_programs.md](mixed_sfg_programs.md)
     
 - Other programs:
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
