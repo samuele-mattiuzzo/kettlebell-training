@@ -1,4 +1,4 @@
-# Rite Of Passage
+# Rite Of Passage - standard progression
 
 - 3x week (L/M/H format)
 - Retest every 4 weeks to decide if move onto next weight or not
@@ -32,3 +32,60 @@
 - Friday: Medium Presses + Medium Swings
 - Saturday: Variety day / off
 - Sunday: Off
+
+
+# Rite of Passage - Jurassic
+- 3x week (M/W/F)
+- Use 6-8RM
+- 1x week do a loaded clean with a heavy bell
+- Snatch 2x week
+  ```
+   20 x 5 = 100
+   17 x 6 = 102
+   15 x 7 = 105
+   13 x 8 = 104
+   12 x 9 = 108 (Note that we are always rounding up, never down.)
+   10 x 10 = 100
+  ```
+- Swing on heavy press days: 20 sets of 5 (start with 2h, continue with t-rex 1h)
+- Simpler progression (stay with each NL as long as needed)
+  ```
+   1. (1, 2, 3) x 3 = 18 NL
+   2. (1, 2, 3) x 4 = 24 NL
+   3. (1, 2, 3) x 5 = 30 NL
+   4. (1, 2, 3) x 6 = 36 NL
+   5. (1, 2, 3) x 7 = 42 NL
+   6. (1, 2, 3) x 8 = 48 NL
+   7. (1, 2, 3) x 9 = 54 NL
+   8. (1, 2, 3) x 10 = 60 NL
+   9. (1, 2, 3, 4) x 3 = 30 NL
+   10. (1, 2, 3, 4) x 4 = 40 NL
+   11. (1, 2, 3, 4) x 5 = 50 NL
+   12. (1, 2, 3, 4) x 6 = 60 NL
+   13. (1, 2, 3, 4, 5) x 2 = 30 NL
+   14. (1, 2, 3, 4, 5) x 3 = 45 NL
+   15. (1, 2, 3, 4, 5) x 4 = 60 NL
+   Hypertrophy progression (optional, if heavier bells are not avail)
+   16. (2, 4, 6) x 2 = 24
+   17. (2, 4, 6) x 3 = 36
+   18. (2, 4, 6) x 4 = 48
+   19. (2, 4, 6) x 5 = 60
+  ```
+
+- Progression for heavier bells:
+```
+ always do 1,2,3 ladders
+ Weeks 1-8: 1x3-5rm | 2,3x6-8rm
+ Weeks 9-16: 1,2x3-5rm | 3x6-8rm
+ Weeks 17-24: use 3-5rm for all sets
+
+ Progression in sets (m/w/f) - every 8 weeks repeat the progression
+ - 3,3,3
+ - 4,4,4
+ - 5,5,5
+ - 5,6,6
+ - 5,7,7
+ - 5,8,7
+ - 5,9,7
+ - 5,10,7
+```
