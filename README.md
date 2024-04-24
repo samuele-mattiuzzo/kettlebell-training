@@ -38,6 +38,7 @@
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
   - [mixed_sfg_programs.md](mixed_sfg_programs.md)
+  - [pavel_tsatsouline_triple_gear_squat.md](pavel_tsatsouline_triple_gear_squat.md)
     
 - Other programs:
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
