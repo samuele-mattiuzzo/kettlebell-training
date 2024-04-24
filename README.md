@@ -1,7 +1,11 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 25/03/24 -> BtS6 (12 weeks) 
+   - 20/05/24 -> ROP Jurassic (4-5 weeks) w 20kg
+      - Rung 1: use 24kg
+      - Do the +pullups version (6 pulls at the end of each ladder)
+      - Supplement with Triple Gear Squat Protocol
+   - 25/03/24 -> BtS6 (8 weeks) 
    - 19/02/24 -> The Giant / Prometheus 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
