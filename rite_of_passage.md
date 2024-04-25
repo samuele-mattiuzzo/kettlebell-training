@@ -38,17 +38,20 @@
 - 3x week (M/W/F)
 - Use 6-8RM
 - 1x week do a loaded clean with a heavy bell
-- Snatch 2x week
+- Snatch 2x week (~100 reps)
+  
   ```
    20 x 5 = 100
    17 x 6 = 102
    15 x 7 = 105
    13 x 8 = 104
-   12 x 9 = 108 (Note that we are always rounding up, never down.)
+   12 x 9 = 108
    10 x 10 = 100
   ```
+
 - Swing on heavy press days: 20 sets of 5 (start with 2h, continue with t-rex 1h)
 - Simpler progression (stay with each NL as long as needed)
+  
   ```
    1. (1, 2, 3) x 3 = 18 NL
    2. (1, 2, 3) x 4 = 24 NL
@@ -73,6 +76,7 @@
   ```
 
 - Progression for heavier bells:
+  
 ```
  always do 1,2,3 ladders
  Weeks 1-8: 1x3-5rm | 2,3x6-8rm
