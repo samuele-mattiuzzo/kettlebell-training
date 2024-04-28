@@ -50,6 +50,7 @@
   - [pat_flynn_10_5_3.md](pat_flynn_10_5_3.md)
   - [pat_flynn_prometheus_protocol.md](pat_flynn_prometheus_protocol.md)
   - [the_monolith_kettlebell.md](the_monolith_kettlebell.md)
+  - [sfg_edt.md](sfg_edt.md)
 
 ## Dry Fighting Weight - RMX
 ```
