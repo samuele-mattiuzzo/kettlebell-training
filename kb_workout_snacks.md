@@ -87,3 +87,25 @@ Sets:
 Week A: 2 circuits
 Week B: 3 circuits
 ```
+
+```
+Simpler Muscle
+- 1 kettlebell
+- 4 exercises: 2h swing, viking push-press, pushup, 1h snatch
+- 30'' after set 1-2, 90'' after set 3
+- alternate exercises
+
+Week1-3:
+  - d1 2h SW 5,5,5 / VPP 3,3,3 each arm
+  - d2 VPP 4,4,4 each arm / 2h SW 6,6,6
+  - d3 2h SW 7,7,7 / VPP 5,5,5 each arm
+Week2-4:
+  - d1 pp 10,10,10 / snatch 3,3,3 each arm
+  - d2 snatch 4,4,4 each arm / pp 10,10,10
+  - d3 pp 10,10,10 / snatch 5,5,5 each arm
+
+Week1: d1x2, d2x3, d3x4
+Week2: d1x2, d2x3, d3x4
+Week3: d1x3, d2x3, d3x4
+Week4: d1x2, d2x4, d3x5
+```
