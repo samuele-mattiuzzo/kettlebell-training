@@ -51,6 +51,7 @@
   - [pat_flynn_prometheus_protocol.md](pat_flynn_prometheus_protocol.md)
   - [the_monolith_kettlebell.md](the_monolith_kettlebell.md)
   - [sfg_edt.md](sfg_edt.md)
+  - [brawn_program.md](brawn_program.md)
 
 - Nutrition:
    - [fabio_zonin_hit_the_target_fat_loss.md](fabio_zonin_hit_the_target_fat_loss.md) 
