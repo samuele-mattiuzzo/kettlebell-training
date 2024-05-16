@@ -1,11 +1,8 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 20/05/24 -> ROP Jurassic - Heavy Progression? (4-5 weeks) w 20+24kg
-      - Possibly skip the first 8 weeks and start at W8
-      - Do the +pullups version (6 pulls at the end of each ladder)
-      - Supplement with Triple Gear Squat Protocol (20+24kg)
-   - 25/03/24 -> BtS6 (8 weeks) 
+   - 20/05/24 -> Bts3 cycle 2 (8 weeks)
+   - 25/03/24 -> BtS6/4/3 (8 weeks) 
    - 19/02/24 -> The Giant / Prometheus 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
@@ -39,6 +36,7 @@
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
   - [mixed_sfg_programs.md](mixed_sfg_programs.md)
   - [pavel_tsatsouline_triple_gear_squat.md](pavel_tsatsouline_triple_gear_squat.md)
+  - [bts2_1_monolith.md](bts2_1_monolith.md)
     
 - Other programs:
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
