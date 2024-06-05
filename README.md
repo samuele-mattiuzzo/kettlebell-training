@@ -1,8 +1,9 @@
 # KETTLEBELL PROGRAMMING
 
 - Personal log:
-   - 20/05/24 -> Bts3 cycle 2 (8 weeks)
-   - 25/03/24 -> BtS6/4/3 (8 weeks) 
+   -  
+   - 02/06/24 -> Pentathlon / daily practice
+   - 25/03/24 -> BtS6/4/3 (10 weeks) 
    - 19/02/24 -> The Giant / Prometheus 
    - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
    - 08/01/24 -> 16/02/24 :
