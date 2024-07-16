@@ -47,6 +47,7 @@ Progress:
   
 ```
 
+# Power Threes
 # Staccato / Stiletto Dynamics
 # Tactical Cycle / Tactical Viking Push Press
 
@@ -56,6 +57,14 @@ A/B/A/B
 ## Volume Progress (number of series/week):
   A1: 4,5,6,5 | A2: 5,4,5,6
   B1: 4,5,6,5 | B2: 5,4,5,6
+
+## Power Threes
+
+- Double Snatch + Viking Push Press + Overspeed Squat / Thruster
+- Sequence 1,3,5 / 5,1,3 / 3,5,1
+- 3 rounds ( 27 reps each lift = 81 total) | 2 rounds ( 18 reps each lift = 54 reps total)
+- Accessories
+  Ab Wheel, Hanging Leg Raise, Turkish Get Ups
 
 ## Staccato / Stiletto Dynamics
 - Do the sequence OTM for 2/3/4/2/3/4 reps, rest 2M after (8' total)
