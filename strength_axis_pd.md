@@ -1,4 +1,7 @@
-# Table of loads
+# Upper / Lower / Chains Split
+
+```
+## Table of loads
 
 1RM | 90% | 80% | 70%
 --- | --- | --- | ---
@@ -10,11 +13,7 @@
 18  | 16  | 14  | 12
 16  | 14  | 12  | 10
 
-# Hypertrophy Program
-
-```
 Load: 70%
-Upper/Lower split (A/B/Chain1/A/B/Chain2) - 4 weeks
 
 - UPPER A:
   Double Clean & Press (ladder)
@@ -48,3 +47,67 @@ Progress:
   
 ```
 
+# Staccato / Stiletto Dynamics
+# Tactical Cycle / Tactical Viking Push Press
+
+```
+A/B/A/B
+
+## Volume Progress (number of series/week):
+  A1: 4,5,6,5 | A2: 5,4,5,6
+  B1: 4,5,6,5 | B2: 5,4,5,6
+
+## Staccato / Stiletto Dynamics
+- Do the sequence OTM for 2/3/4/2/3/4 reps, rest 2M after (8' total)
+- Repeat for # rounds of the day
+
+- A: Staccato: Double Snatch + Viking Push Press + Overspeed Squat + Swing
+  + Double floor press (3/4/5/4x10)
+  + Double 1.5 front squat (3/4/5/4x7)
+  + TGU (1,2,3,3,2,1)
+- B: Stiletto: Double Swing + Clean + Push Press + Overspeed Front Squat + Snatch
+  + Double gorilla row (3/4/5/4x10)
+  + Double reverse lunge (3/4/5/4x5)
+  + Pressing TGU (1 press every step of the way) 1+1
+
+--- //\\//\\ ---
+
+## Tactical Cycle / Tactical Viking Push Press
+- Do the sequence OTM for 6 series, rest 2M after (8' total)
+- Repeat for # rounds of the day
+
+- A: Tactical Cycle: Clean,Jerk,Clean,Jerk,Clean,Jerk,Overspeed Squat (OTM)
+  + TGU press to elbow / bent over row (4x6/7/8/9)
+  + straddle v-up / side plank dip (3x12)
+- B: Tactical Viking Push Press: Snatch,VPP,VPP,VPP,Thruster (OTM)
+  + single fsq / pistol squat (4x6/7/8/9 + 4x1/2/1/2)
+  + hanging leg raises / windmill (4x7)
+```
+
+# Minimalist Hypertrophy
+
+```
+If stand-alone: 2x week with 2 days rest in between
+If part of one of the two above: during session A1 and B2, replace "+ blocks" with Hypertrophy work
+A1 + MH / B1 / A2 / B2 + MH
+
+Double Press + Double Front Squat (Medium load)
+
+Month 1:
+- NL50: 5x4,6 + 5x6,4
+- NL60: 6x4,6 + 6x6,4
+- NL70: 3x4,6,10(4,6) + 3x6,4,10(6,4)
+- NL60: 6x4,6 + 6x6,4
+
+Month 2:
+- NL70: 3x4,6,10(4,6) + 3x6,4,10(6,4)
+- NL80: 4x4,6,10 + 4x6,4,10
+- NL90: 4x4,6,10(4,6) + 4x6,4,10(6,4)
+- NL80: 4x4,6,10 + 4x6,4,10
+
+Month 3:
+- NL90: 4x4,6,10(4,6) + 4x6,4,10(6,4)
+- NL100: 5x4,6,10 + 5x6,4,10
+- NL110: 5x4,6,10(4,6) + 5x6,4,10(6,4)
+- NL100: 5x4,6,10 + 5x6,4,10
+```
