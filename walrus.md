@@ -1,5 +1,47 @@
 # WALRUS / Vest + kettlebells
 
+```
+GVT progression: 5x3 -> 5x5 -> 10x5
+Upper body pushes: double military press / double floor press
+Upper body pulls: double gorilla row / double renegade row / row on parallettes / chin ups
+Lower body pushes: double front squat / double lounge
+Lower body pulls: stacked double deadlifts / double snatch / double swings
+Either full body 2x weekor upper/lower split
+
+Westside inspired
+D1: (Speed Day: Upper Body Focus)
+ Clean and Speed Press 8×3 / One-arm Hang Snatch 6×3 l,r / Renegade Row 2×5 l,r
+D2 (Speed Day: Lower Body Focus)
+ Explosive Lunge 8×3 / Explosive Double Swing 6×3 l,r / Turkish Get-up 2×3 l,r
+D3 (Strength Day: Upper Body Focus)
+ Double Military Press 5×5 / Double Bent Over Row 5×5 / Double Windmill 3×5 l,r
+D4 (Strength Day: Upper Body Focus)
+ Double Front Squat 5×5 / Double Swing 5×5 / Slow sit ups 3×5 l,r
+```
+
+
+
+```
+Bodyweight 
+Hearts = Pushups
+Diamonds = Squats
+Clubs = Supermans
+Spades = Reverse Lunge
+Aces = 45-second Mountain Climber
+Queens = 45 seconds Russian Twist
+Jacks = 45 seconds of Jumping Jacks
+Kings = 45 seconds of crunches
+
+W equipment
+Hearts = KB Floor Press*
+Diamonds = KB Squat*
+Clubs = KB Rows*
+Spades = KB Romanian Deadlift*
+Aces = 45 seconds of Pushups
+Queens = 45 seconds of Chin-ups
+Jacks = 45 seconds of Dumbbell Skull Crushers*
+Kings = 45 seconds of Bicep curls*
+```
 
 ````
 -> Weighted Calisthenics Workout #1
