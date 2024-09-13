@@ -98,3 +98,19 @@ w2: 335x3, 345x2, 345x3
 w3: 445x2, 445x3, 455x2
 w4: 455x3, 555x2, 555x3
 ```
+
+## Squats WAVE template
+```
+L -> 8/10 RM
+H -> 5/6 RM
+
+WEEK/NL
+1/33	Mon: L5,H3,H2                                Fri: (L4,H3,H2,H3) x 2	
+2/42	Mon: L5,H3,L4,H3                             Fri: (L4,H3,H2) x 3	
+3/53	Mon: 4 x L5                                  Fri: L5,H3,L4,H2,H3,L4,L5,H3,L4	
+4/22	                  Wed: L5,3 x (H2,H3), H2			
+5/44	Mon: L5,L4,H3,L4                             Fri: H3,L5,H3,H2,H3,H2,H3,L4,H3	
+6/70	Mon: L5,L4,L5,L4  Wed: L5,H3,H2,L5,H3,L5     Fri: 2 x (L5,H3,H2), L5,L4	
+7/56	Mon: L5,L4,L5     Wed: 3 x (H2,H3), H3	      Fri: 4 x (H2,H3),H2,H2	
+8/30	Mon: 6 x (H2,H3)                             Fri: L5,L4,H3,H2, TEST 1RM
+```
