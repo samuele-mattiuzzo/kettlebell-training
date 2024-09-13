@@ -114,3 +114,13 @@ WEEK/NL
 7/56	Mon: L5,L4,L5     Wed: 3 x (H2,H3), H3	      Fri: 4 x (H2,H3),H2,H2	
 8/30	Mon: 6 x (H2,H3)                             Fri: L5,L4,H3,H2, TEST 1RM
 ```
+
+## Built Strong Minimalist
+```
+- 3x week, 6 weeks, 3 exercises, circuit, rest 60-120s 
+- ladders: (4,6) with 10RM / (2,3) with 5RM
+- 1 PUSH, 1 PULL, 1 SQUAT
+
+- Dice roll: 1 -> 2 sets, 2,3 -> 4 sets, 4,5 -> 6 sets, 6 -> 8 sets
+off days: 20on/20off swings, mobility
+```
