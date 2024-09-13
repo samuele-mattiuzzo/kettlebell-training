@@ -1,27 +1,9 @@
-# KETTLEBELL PROGRAMMING
-
-- Personal log:
-   -  
-   - 02/06/24 -> Pentathlon / daily practice
-   - 25/03/24 -> BtS6/4/3 (10 weeks) 
-   - 19/02/24 -> The Giant / Prometheus 
-   - 18/02/24 -> SFG Kettlebell 201: Rite of Passage Workshop 
-   - 08/01/24 -> 16/02/24 :
-      - MWF 1: Soju & Tuba 24kg 
-      - MWF 2: GIANT 3 (20 to 30')
-         - A: 2x clean & press 20kg (Giant 3 progression / +1 rep)
-         - finisher: 5x5-10 bstance squats (32kg) + 5x5-10 24kg rows
-      - TuTh: 100 to 300 24kg swings or 20' AXE 32kg swings + ab wheel / static core
-      - SatSun: OS resets, mobility / stretching, static core
-   - 01/01/24 -> 05/01/24 : BtS3 (stopped due to not right weighs)
-   - 11/09/23 -> 22/12/23 : [15_weeks_plan.md](15_weeks_plan.md)
-   - 01/07/23 -> 10/09/23 : Push Pull Legs (6 days, barbells)
-   - 01/02/23 -> 30/06/23 : DFW remix, Pat Flynn Fitness Plan, The Giant 1.1
+# KETTLEBELL PROGRAMS
 
 - Geoff Neupert programs
   - [easy_muscle.md](geoff_neupert_easy_muscle.md) 
   - [kettlebell_strong.md](kettlebell_strong.md)
-  - [kettlebell_more_muscle.md](kettlebell_more_muscle.md)
+  - [kettlebell_muscle.md](kettlebell_more_muscle.md)
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
   - [mkm_programs_hard_to_easy.md](mkm_programs_hard_to_easy.md)
