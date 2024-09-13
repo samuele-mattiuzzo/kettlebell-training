@@ -1,5 +1,8 @@
 # KETTLEBELL PROGRAMS
 
+- Own
+  - [15_weeks_plan.md](15_weeks_plan.md)
+
 - Geoff Neupert programs
   - [easy_muscle.md](geoff_neupert_easy_muscle.md) 
   - [kettlebell_strong.md](kettlebell_strong.md)
@@ -14,8 +17,10 @@
   - [mixed_sfg_programs.md](mixed_sfg_programs.md)
   - [sfg_I_training_plan.md](sfg_I_training_plan.md)
   - [sfg_plan_a_plan_b.md](sfg_plan_a_plan_b.md)
+  - [sfg_edt.md](sfg_edt.md)
   - [rite_of_passage.md](rite_of_passage.md)
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
+  - [plan_strong_prep.md](plan_strong_prep.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
     
@@ -29,10 +34,14 @@
   - [pat_flynn_10_5_3.md](pat_flynn_10_5_3.md)
   - [pat_flynn_prometheus_protocol.md](pat_flynn_prometheus_protocol.md)
   - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
-  - [sfg_edt.md](sfg_edt.md)
   - [brawn_program.md](brawn_program.md)
+  - [strength_axis_pd.md](strength_axis_pd.md)
+  - [gs_sport_training.md](gs_sport_training.md)
+  - [kb_4_aesthetics.md](kb_4_aesthetics.md)
+  - [walrus.md](walrus.md)
 
 - Nutrition:
+   - [nutrition.md](nutrition.md)
    - [fabio_zonin_hit_the_target_fat_loss.md](fabio_zonin_hit_the_target_fat_loss.md) 
 
 ## Dry Fighting Weight - RMX
@@ -45,20 +54,6 @@ w2: 1,2,3     / 2 / 3
 w3: 1,2,3,4   / 2 / 3
 w4: 1,2,3,4,5 / 3 / 3,4
 w5: 3x3 / 1rm test / 3x3
-```
-
-## The minimum-maximum
-```
-Alternate days (M/W/F/Sun/Tue/Thu/Sat...)
-D1: heavy squats + light c&P
-D2: heavy c&P + light squats
-
-Heavy: 5RM / Light: 10RM
-
-Block A: 15-20' of as many reps of 5 (heavy)
-Block B: 15-20' of as many reps of 10 (light)
-
-Run for 6+ weeks, autoregulated
 ```
 
 
@@ -88,7 +83,21 @@ use a kb 1 size lighter (4kg) than 1RM
 18. 1 x test set
 ```
 
-## Some Pat Flynn Complexes
+## Pat Flynn: The minimum-maximum
+```
+Alternate days (M/W/F/Sun/Tue/Thu/Sat...)
+D1: heavy squats + light c&P
+D2: heavy c&P + light squats
+
+Heavy: 5RM / Light: 10RM
+
+Block A: 15-20' of as many reps of 5 (heavy)
+Block B: 15-20' of as many reps of 10 (light)
+
+Run for 6+ weeks, autoregulated
+```
+
+## Pat Flynn: Complexes
 ```
 Complex 1
 10 to 20' as many sets as possible / 5 rounds of:
