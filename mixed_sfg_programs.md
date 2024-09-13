@@ -75,3 +75,26 @@ Protocol 2:
     - weds : medium, 8-12RM, 2/3RM reps per set, 15 total reps (str)
     - fri : slow, 4-7RM, 1/2RM reps per set, 20 total reps (hypertrophy)
 ```
+
+## Total Tension
+```
+6 weeks, 3 days a week, ABA-BAB, Clean + Press + Squat + Renegade Row
+A: Press Pyramid / B: Squat Pyramid
+Pyramid: start 1 rep, up to rep max (perfect form), back to 1 rep
+Finisher: press -> 100 swings (10/20) / squat -> 5' snatch test
+Progress: same reps 3 sessions, next up by 1-2 reps
+Deload: week of variety
+```
+
+## Moving Target
+```
+3x week, clean + press + fsq
+1 rep each + 1 target lift, reps 2/3/5 per target, 2 rounds
+finish with 3 sets of renegade rows or chin ups + ab wheel
+off days: 20on/20off swings, mobility
+
+w1: 235x2, 235x3, 335x2
+w2: 335x3, 345x2, 345x3
+w3: 445x2, 445x3, 455x2
+w4: 455x3, 555x2, 555x3
+```
