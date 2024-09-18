@@ -19,6 +19,7 @@
   - [sfg_plan_a_plan_b.md](sfg_plan_a_plan_b.md)
   - [sfg_edt.md](sfg_edt.md)
   - [rite_of_passage.md](rite_of_passage.md)
+  - [sfg_minimalist_training.md](sfg_minimalist_training.md)
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
   - [plan_strong_prep.md](plan_strong_prep.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
