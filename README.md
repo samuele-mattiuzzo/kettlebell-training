@@ -40,6 +40,7 @@
   - [gs_sport_training.md](gs_sport_training.md)
   - [kb_4_aesthetics.md](kb_4_aesthetics.md)
   - [walrus.md](walrus.md)
+  - [rdella_kb_domination.md](rdella_kb_domination.md)
 
 - Nutrition:
    - [nutrition.md](nutrition.md)
