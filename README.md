@@ -21,6 +21,7 @@
   - [rite_of_passage.md](rite_of_passage.md)
   - [sfg_minimalist_training.md](sfg_minimalist_training.md)
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
+  - [sfg_swings_presses_hypertrophy.md](sfg_swings_presses_hypertrophy.md)
   - [plan_strong_prep.md](plan_strong_prep.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
@@ -41,6 +42,7 @@
   - [kb_4_aesthetics.md](kb_4_aesthetics.md)
   - [walrus.md](walrus.md)
   - [rdella_kb_domination.md](rdella_kb_domination.md)
+  - [rdella_shock_and_awe.md](rdella_shock_and_awe.md)
 
 - Nutrition:
    - [nutrition.md](nutrition.md)
@@ -157,30 +159,5 @@ swings/pushups ladders
 ...
 5 swing, 5 pushup
 5 round
-```
-
-## HIRT for Hypertrophy
-```
-- The burn.
-Complete 25 heavy kettlebell swings (40-48kg for strong gentlemen; 20-24kg for strong ladies).
-These swings should be as powerful as possible.
-Once completed shake it off for a minute or two before starting the exercises you do in your ‘rest’ period.
-
-
-- Ten minutes of rest.
-Between sets of swings, you will do presses.
-You want your presses to be crisp and powerful. Please don’t grind out your last rep. Leave a rep in the tank on each set. Try to do three sets in that ten minutes:
-Minute 2: 7-8 reps at 65% of 1RM
-Minute 4: 3 reps at 85% of 1RM
-Minute 7: 5-6 reps at 75% of 1RM
-
-Do this program three days a week.
-Do low (3 rounds), medium (4 rounds), and heavy (5 rounds) volume throughout the week on this program.
-On other training days, you can weight train with squats and pull-ups if doing swings and presses.
-
-You will want to use the above hypertrophy program with one upper and one lower body choice. On alternate days, train the other body movements normally.
-Please avoid other glycolytic (the burn) types of exercises while on this program.
-
-Maintain this program for six weeks. Alternate between it and traditional HIRT training to maintain your gains and to keep progressing.
 ```
 
