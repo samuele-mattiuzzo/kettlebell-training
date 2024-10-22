@@ -1,3 +1,20 @@
+## Force Recon
+
+```
+Workout A
+   - Weighted pullups: 5x5 / Cleans and presses: 5x5 (superset)
+   - Front squats with a one second pause: 5x5
+   - Snatch, heavy, 5 sets / Strict hanging leg raises: 5 sets
+
+Workout B
+   - 1h C&Js, heavy, 10 minutes
+   - Heavy abs: 5x5
+   - Pullups: x100 / Front squats: sets of 10
+   - Snatches or swings: x10-20 / superset jog (or navy seal / 6 count burpees) amrap
+
+Format ABA BAB - 3 hard weeks, 1 with half the volume, then do again
+```
+
 ## The revolver
 
 ```
