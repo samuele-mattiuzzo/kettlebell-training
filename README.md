@@ -43,6 +43,7 @@
   - [walrus.md](walrus.md)
   - [rdella_kb_domination.md](rdella_kb_domination.md)
   - [rdella_shock_and_awe.md](rdella_shock_and_awe.md)
+  - [rdella_mobility_fix.md](rdella_mobility_fix.md)
 
 - Nutrition:
    - [nutrition.md](nutrition.md)
