@@ -29,6 +29,7 @@
 - Other programs:
   - [dj_mass_made_simple.md](dj_mass_made_simple.md)
   - [dj_challenge_workouts.md](dj_challenge_workouts.md)
+  - [dj_10k_swings.md](dj_10k_swings.md)
   - [kettlebear.md](kettlebear.md)
   - [viking_warrior_conditioning.md](viking_warrior_conditioning.md)
   - [kb_workout_snacks.md](kb_workout_snacks.md)
