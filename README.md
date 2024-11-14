@@ -2,6 +2,7 @@
 
 - Own
   - [15_weeks_plan.md](15_weeks_plan.md)
+  - [sam_m_custom_programming_12_weeks.md](sam_m_custom_programming_12_weeks.md)
 
 - Geoff Neupert programs
   - [easy_muscle.md](geoff_neupert_easy_muscle.md) 
