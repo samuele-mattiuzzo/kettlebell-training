@@ -46,6 +46,7 @@
   - [rdella_kb_domination.md](rdella_kb_domination.md)
   - [rdella_shock_and_awe.md](rdella_shock_and_awe.md)
   - [rdella_mobility_fix.md](rdella_mobility_fix.md)
+  - [us_af_fitness_test.md](us_af_fitness_test.md)
 
 - Nutrition:
    - [nutrition.md](nutrition.md)
