@@ -47,6 +47,7 @@
   - [rdella_shock_and_awe.md](rdella_shock_and_awe.md)
   - [rdella_mobility_fix.md](rdella_mobility_fix.md)
   - [us_af_fitness_test.md](us_af_fitness_test.md)
+  - [sfg_half_bodyweight_press.md](sfg_half_bodyweight_press.md)
 
 - Nutrition:
    - [nutrition.md](nutrition.md)
