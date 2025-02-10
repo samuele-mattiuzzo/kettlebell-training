@@ -24,6 +24,7 @@
   - [rite_of_passage_diluglio.md](rite_of_passage_diluglio.md)
   - [sfg_swings_presses_hypertrophy.md](sfg_swings_presses_hypertrophy.md)
   - [sfg_press_strength_plans.md](sfg_press_strength_plans.md)
+  - [sfg_a_a_snatches.md](sfg_a_a_snatches.md)
   - [plan_strong_prep.md](plan_strong_prep.md)
   - [fabio_zonin_the_cruiser.md](fabio_zonin_the_cruiser.md)
   - [fabio_zonin_simple_strength_difficult_times.md](fabio_zonin_simple_strength_difficult_times.md)
