@@ -43,14 +43,16 @@ TEST | 3, 4, 3, 5 | / | H2, VH1, VH test
 
 Each session is Heavy / Light
 
+
 Week | D1 | D2 | D3
---- | ---  | ---
+--- | ---  | --- | ---
 1 | 4/2 | 2/2 | 4/2 
 2 | 5/2 | 2/2 | 5/2
 3 | 6/2 | 2/2 | 6/2
 4 | 4/2 | 2/2 | 4/2
 5 | 5/2 | 2/2 | 5/2
 6 | 6/2 | 2/2 | 6/2
+
 
 Week #7: Deload Week (5-6RM, slow circuit)
 Session A—DMP and TPUL: (1, 2, 3)/3
