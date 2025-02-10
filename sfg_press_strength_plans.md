@@ -55,12 +55,10 @@ Week | D1 | D2 | D3
 
 
 Week #7: Deload Week (5-6RM, slow circuit)
-Session A—DMP and TPUL: (1, 2, 3)/3
-Session B—DMP and TPUL: (1, 2, 3)/3
-Session C—DMP and TPUL: (1, 2, 3)/3
+- (1, 2, 3)/3
 
 Week #8—Test Week
-Session A: DMP and TPUL: (1, 2, 3)/2
+- (1, 2, 3)/2
 Note: After this session take a day of full rest and perform your test in the Session B
 
 Session B: Test
