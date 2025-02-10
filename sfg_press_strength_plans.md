@@ -24,9 +24,46 @@ Week | M | H | L
 5 | 4, 5, 4, 5 | 3, 2, 3 | 6, 7, 6, 6
 6 | 3, 5, 4, 5, 3, 5, 4, 5 | H2, VH1, H2, 3, 3, 2, 3 | 6, 7, 6, 6, 8, 7, 6
 7 | 3, 5, 3, 4, 3, 5, 3 | H2, VH1, H2, 3, 2, 3 |  6, 6, 6, 6, 6, 6
-8 | 3,4,3,5 | 2,3,3 | 6,7,8
-9 | 3,4,3,5 | 2,3,3 | 6,7,8
-10 | 3,4,3,5 | 2,3,3 | 6,7,8
-11 | 3,4,3,5 | 2,3,3 | 6,7,8
-12 | 3,4,3,5 | 2,3,3 | 6,7,8
+8 | 4, 5, 5, 4, 5, 5, 5, 4, 5 |  2, 3, 3, 2, 3, 3, 2 | 6, 7, 6, 6, 8, 6, 7, 7, 6
+9 | 3, 5, 3, 5, 3, 5, 3 | H2, VH1, H3, VH1, 2, 3, 2 | 6, 6, 7, 6, 6, 6
+10 | 3, 5, 4, 5, 3, 5, 5, 4 |  2, 3, 3, 2, 3, 2 | 6, 8, 6, 6, 8, 7, 8
+11 | 3, 4, 3, 5, 3, 4 | H2, VH1, H2, 3, 2 |  6, 6, 6, 6, 6
+TEST | 3, 4, 3, 5 | / | H2, VH1, VH test
 
+
+## Press Strength Plan SF930
+
+- Each session, perform sets to near failure
+  
+- Session A: Double Kettlebell Military Press heavy, Tactical Pullup light
+- Session B: Double Kettlebell Military Press light, Tactical Pullup light
+- Session C: Tactical Pullup heavy, Double Kettlebell Military Press light
+
+- Rest 8 - 10 minutes between HEAVY sets, sandwich LIGHT in between
+
+Each session is Heavy / Light
+
+Week | D1 | D2 | D3
+--- | ---  | ---
+1 | 4/2 | 2/2 | 4/2 
+2 | 5/2 | 2/2 | 5/2
+3 | 6/2 | 2/2 | 6/2
+4 | 4/2 | 2/2 | 4/2
+5 | 5/2 | 2/2 | 5/2
+6 | 6/2 | 2/2 | 6/2
+
+Week #7: Deload Week (5-6RM, slow circuit)
+Session A—DMP and TPUL: (1, 2, 3)/3
+Session B—DMP and TPUL: (1, 2, 3)/3
+Session C—DMP and TPUL: (1, 2, 3)/3
+
+Week #8—Test Week
+Session A: DMP and TPUL: (1, 2, 3)/2
+Note: After this session take a day of full rest and perform your test in the Session B
+
+Session B: Test
+3 reps with your 8-12RM
+Rest 5 minutes
+2 reps with your 5-6RM
+Rest 5 minutes
+1 rep with your 1-3RM
