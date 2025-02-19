@@ -11,6 +11,7 @@
   - [kettlebell_maximorum.md](kettlebell_maximorum.md)
   - [kettlebell_burn_training.md](kettlebell_burn_training.md)
   - [mkm_programs_hard_to_easy.md](mkm_programs_hard_to_easy.md)
+  - [various_neupert.md](various_neupert.md)
  
 - SFG programs:
   - [pavel_tactical_pullup_revised.md](pavel_tactical_pullup_revised.md)
