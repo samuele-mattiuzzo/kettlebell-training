@@ -34,3 +34,28 @@
   - ph2: 3
   - ph3: 5
 ```
+
+## You Don't Know Squat
+
+```
+1.0
+- D1: fsq + press / D2: fsq + clean + press / D3: fsq + snatch
+- [6 weeks, sets of]: 4 / 5 / 6 / 5 / 6 / 7
+
+1.1
+- D1: fsq + push-press / D2: fsq + clean + push-press / D3: fsq + push-press + snatch
+- [6 weeks, ladders of]: 2,3,4 / 1,3,5 / 2,4,6 / 3,4,5 / 1,3,5,7 / 2,4,6,8
+
+1.2
+- D1: fsq + jerk / D2: fsq + jerk + snatch / D3: fsq + press + snatch + jerk
+- [6 weeks, ladders of]: 3 / 4 / 5 / 4 / 5 / 6
+```
+
+## Boulder Shoulders
+
+```
+- A: swing + high-pull + snatch + press + push-press
+  B: high-pull + snatch + press + snatch + high-pull
+  A + B non consecutive days = 1 block
+- Blocks: 5 / 6 / 7 / 6 / 7 / 8
+```
