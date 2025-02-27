@@ -43,6 +43,7 @@
   - [pat_flynn_4_weeks_s_c.md](pat_flynn_4_weeks_s_c.md)
   - [brawn_program.md](brawn_program.md)
   - [strength_axis_pd.md](strength_axis_pd.md)
+  - [strength_axis_ballistic.md](strength_axis_ballistic.md)
   - [gs_sport_training.md](gs_sport_training.md)
   - [kb_4_aesthetics.md](kb_4_aesthetics.md)
   - [walrus.md](walrus.md)
