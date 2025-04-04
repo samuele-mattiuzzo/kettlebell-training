@@ -1,128 +1,73 @@
-# Custom programming
+# **🔥 Man Maker 🔥**  
 
-## Weekly Overview
-- Training Days: Monday, Tuesday, Thursday, Friday
-- Program Duration: 8–12 weeks
+### **Workout A: Strength**  
+- Complex: **Front Squat**  -> **Press1**  -> **Front Squat**  -> **Press2**  
+- **Press1**: push-up / overhead press
+- **Press2**: push-press / push-up / jerk
 
-## Progression Approach:
-
-- Weeks 1–4: Familiarization and volume work within your rep ranges, focusing on form and control
-- Weeks 5–8: Progress to heavier loads or slower tempo for eccentric control
-- Weeks 9–12: Increase volume (additional sets or reps) and incorporate AMRAP (As Many Reps As Possible) sets to ensure progression
-
-## Daily Structure
-**Block 1: Mobility (5–10 minutes)**
-Dynamic movements to enhance mobility in shoulders, hips, and ankles, especially for overhead work.
-
-- Shoulder Dislocates with Band – 2 minutes
-- Ankle Rock and Calf Stretch – 2 minutes each side
-- Hip Flexor and Hamstring Flow – 1 minute per leg
-- Wall-Facing Shoulder Mobility Drill – 2 sets of 20–30 seconds
-- Block 2: Overhead Press Strength Work (5–10 minutes)
+💡 **Rest:** 90-120 sec between rounds  
+💡 **Finisher:** 3 rounds of:  
+- **Bent-Over / Gorilla Rows** – 8 to 12 reps
+- **Standing KB Crush Grip Hold** – 30 sec
+- **Leg raises** – 15 reps  / **Plank** - 30 seconds
 
 
-**Block 2: Rotating Overhead Press Scheme**
+### **Workout B: Fat Loss & GPP**  
 
-- Single Arm Press
-  - Weeks 1–4: 3 sets of 5–6 reps with 20kg per side
-  - Weeks 5–8: 3 sets of 3–4 reps with 24kg per side
-  - Weeks 9–12: 4 sets of 2 reps with 24kg (or add an AMRAP set at end)
-- Double Kettlebell Press
-  - Weeks 1–4: 3 sets of 6–8 reps with 2x16kg
-  - Weeks 5–8: 3 sets of 4–5 reps with 2x20kg
-  - Weeks 9–12: 4 sets of 2–3 reps with 2x24kg
+**🔹 Option1: high intensity**  
+- **Man Makers** – 5x (push-up, row left, push-up, row right, clean, [snatch], squat, press)  
+- **OR**  
+- **Snatch Burpees EMOM** - alternate 5-10 burpees / 6-8 snatch per side  
 
-**Block 3: Double Kettlebell Work (Main Block: 20–30 minutes)**
-This is the strength and hypertrophy portion of the workout, featuring clean & jerks, lunges, and rows.
+**🔹 Option2: lower intensity**  
+- **150-300 swings** / **50-100 Burpees** - 20-30 minutes
 
-- Days 1 & 3 (Monday, Thursday):
+💡 **Finisher:** 3 rounds of:  
+- **Plank-to-push-up** – 8 to 12 reps
+- **Standing KB Crush Grip Hold** – 30 sec
+- **Leg raises** – 15 reps  / **Hollow hold** - 30 seconds
 
-  - Double Kettlebell Clean & Jerk (Heavy Day):
-
-  ```
-  Weeks 1–4: 4 sets of 4 reps with 2x20kg
-  Weeks 5–8: 5 sets of 2 reps with 2x24kg
-  Weeks 9–12: 6 sets of 2 reps with 2x24kg (add 1 AMRAP set with 2x20kg at end)
-  ```
+### **Workout C: VO2 & Aerobic Fat Loss (optional)**  
+- **Snatch 15:15** for 20-30 min  / **Burpees** for 20-30 min
   
-  - Double Kettlebell Racked Lunges:
+💡 **Finisher:** 2-3 rounds of:  
+- **Plank-shoulder-taps** – 15+ reps
+- **Shrugs** – 8-12 reps
+- **Farmer hold** / **Overhead hang** - 30+ seconds
+---
 
-  ```
-  Weeks 1–4: 3 sets of 8 reps with 2x16kg
-  Weeks 5–8: 4 sets of 6 reps with 2x20kg
-  Weeks 9–12: 4 sets of 4 reps with 2x24kg
-  ```
-  
-  - Double Kettlebell Bent-Over Rows:
+## **🔥 Weekly Training Plan**
 
-  ```
-  Weeks 1–4: 4 sets of 8 reps with 2x16kg
-  Weeks 5–8: 4 sets of 6 reps with 2x20kg
-  Weeks 9–12: 5 sets of 4 reps with 2x24kg
-  ```
-  
-- Days 2 & 4 (Tuesday, Friday):
+| **Day** | **Workout** | **H 5x** | **L 3x** | **Finisher** |
+|--------|------------|---------|---------|-------------|
+| **1 (Strength)** | Strength Complex | 5-6 rounds | 3-4 rounds | Upper Back, Arms, and Core |
+| **2 (GPP)** | Man Makers / Snatch-Burpee | 20-30 min | 150-300 Swings or 50-100 Burpees | Core & Grip Strength |
+| **3 (Strength)** | Strength Complex | 5-6 rounds | 3-4 rounds | Upper Back, Arms, and Core |
+| **4 (GPP)** | Man Makers / Snatch-Burpee | 20-30 min | 150-300 Swings or 50-100 Burpees | Core & Grip Strength |
+| **5 (Endurance, Optional)** | Snatch 15:15 or Burpees | 20-30 min | 15-20 min | Neck, Grip, & Core Stability |
 
-  - Double Kettlebell Jerk (Moderate Volume):
- 
-  ```
-  Weeks 1–4: 4 sets of 6 reps with 2x16kg
-  Weeks 5–8: 4 sets of 4 reps with 2x20kg
-  Weeks 9–12: 5 sets of 3 reps with 2x24kg
-  ```
-  
-  - Double Kettlebell Front Squats (Leg Strength Focus):
- 
-  ```
-  Weeks 1–4: 3 sets of 8 reps with 2x16kg
-  Weeks 5–8: 3 sets of 6 reps with 2x20kg
-  Weeks 9–12: 4 sets of 4 reps with 2x24kg
-  ```
-  
-  - Renegade Rows (Core & Arm Focus):
- 
-  ```
-  Weeks 1–4: 3 sets of 8 reps per side with 16kg
-  Weeks 5–8: 3 sets of 6 reps per side with 20kg
-  Weeks 9–12: 4 sets of 4 reps per side with 24kg
-  ```
+---
 
-**Block 4: Bodyweight Finisher / Conditioning (8–10 minutes)**
-End each session with a high-intensity circuit. Aim to gradually improve conditioning and fat loss over time by reducing rest intervals.
+## **🔥 3-Month Progression Plan**
 
-- Bodyweight Circuit (8-10 minutes AMRAP) option 1:
-  ```
-  Push-Ups – 10 reps
-  Chin-Ups – Max reps (5 reps if max not possible)
-  6-Count Burpees – 5 reps
-  
-  Rest for 60 seconds after each round.
-  Progression: Decrease rest time every 2–3 weeks (e.g. from 60 seconds to 45 seconds)
-  Aim to complete more rounds over time.
-  ```
-- 2 handed swings (10-15 minutes OTM) option 2:
-  ```
-  Set a timer to beep every minute for 10 to 15 minutes
-  Do sets of 10 to 15 kettlebell swings (20 to 30 seconds of work)
-  ```
+**🔹 Phase 1 (Weeks 1-4) – Adaptation & Conditioning**
 
-### Weekly Breakdown (Sample: Week 1–4)
+- Strength: H = 5 rounds, L = 3 rounds
+- GPP: Man Makers (3-5 rounds), Swings/Burpees at lower range
+- Endurance: Snatch 15:15 for 15-20 min, Burpees for 20 min
 
-```
-Monday/Thursday
-Mobility: Shoulder dislocates, ankle rocks, hip flow
-Overhead Press Strength: Single-arm press 3x5 with 20kg each side
-Double Kettlebell Work (Heavy Day):
-  Clean & Jerk 4x4 (2x20kg)
-  Racked Lunges 3x8 (2x16kg)
-  Rows 4x8 (2x16kg)
-Finisher: 10-15 2 handed swings OTM 10 minutes
+__Goal: Build work capacity, improve form, and condition joints__
 
-Thursday/Friday
-Mobility: Same as Monday
-Overhead Press Strength: Single-arm press 3x5 with 20kg each side
-Double Kettlebell Work (Heavy Day):
-  Clean & Jerk 4x4 (2x20kg)
-  Racked Lunges 3x8 (2x16kg), Rows 4x8 (2x16kg)
-Finisher: 6-count burpees, push-ups, chin-ups (AMRAP 8–10 min)
-```
+**🔹 Phase 2 (Weeks 5-8) – Volume & Strength Increase**
+- Strength: H = 6 rounds, L = 4 rounds
+- GPP: Man Makers (5-7 rounds), increase burpees/snatches per round
+- Endurance: Snatch 15:15 for 20-25 min, Burpees for 25 min
+
+__Goal: Increase strength and power while improving fat loss__
+
+**🔹 Phase 3 (Weeks 9-12) – Peak Performance & Fat Loss**
+- Strength: Maintain H = 6 rounds, L = 4 rounds
+- GPP: Man Makers (7-10 rounds), higher burpee/snatch volume
+- Endurance: Snatch 15:15 for 30 min, Burpees for 30 min
+
+__Goal: Maximize fat loss and muscular endurance__
