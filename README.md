@@ -5,6 +5,7 @@
   - [sam_m_custom_programming_12_weeks.md](sam_m_custom_programming_12_weeks.md)
 
 - Geoff Neupert programs
+  - [real mfb.md](rmfb.md)
   - [easy_muscle.md](geoff_neupert_easy_muscle.md) 
   - [kettlebell_strong.md](kettlebell_strong.md)
   - [kettlebell_muscle.md](kettlebell_more_muscle.md)
