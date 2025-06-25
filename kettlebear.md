@@ -6,7 +6,7 @@
 
 | Week | Heavy Days (Mon/Fri)<br>_NL: PR/SQ_       | Light Day (Wed)<br>_NL: PR/SQ_     | Conditioning + Mobility (Tue/Thu)             |
 |------|-------------------------------------------|------------------------------------|--------------------------|
-| 1    | [ ] 8x(1,2,3)+5  <br>_48/40_                  | [ ] 5x(1,2,3)+5  <br>_30/25_           | [ ] Deck Swings + Mobility   |
+| 1    | 8x(1,2,3)+5  <br>_48/40_                  | 5x(1,2,3)+5  <br>_30/25_           | Deck Swings + Mobility   |
 | 2    | 8x(1,2,3)+6  <br>_48/48_                  | 5x(1,2,3)+6  <br>_30/30_           | Deck Swings + Mobility   |
 | 3    | 9x(1,2,3)+6  <br>_54/54_                  | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
 | 4    | 9x(1,2,3,4)+6  <br>_81/54_                | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
