@@ -4,20 +4,20 @@
 - Heavy Days (Mon/Fri): D1 & D3 / Light Day (Wed): D2
 - Conditioning + Mobility: Tue & Thu
 
-| Week | Heavy Days (Mon/Fri)<br>_NL: PR/SQ_       | Light Day (Wed)<br>_NL: PR/SQ_     | Conditioning + Mobility (Tue/Thu)             |
-|------|-------------------------------------------|------------------------------------|--------------------------|
-| 1    | 8x(1,2,3)+5  <br>_48/40_                  | 5x(1,2,3)+5  <br>_30/25_           | Deck Swings + Mobility   |
-| 2    | 8x(1,2,3)+6  <br>_48/48_                  | 5x(1,2,3)+6  <br>_30/30_           | Deck Swings + Mobility   |
-| 3    | 9x(1,2,3)+6  <br>_54/54_                  | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
-| 4    | 9x(1,2,3,4)+6  <br>_81/54_                | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
-| 5    | 10x(1,2,3,4)+7  <br>_90/70_               | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
-| 6    | 10x(1,2,3,4)+8  <br>_90/80_               | 5x(1,2,3,4)+7  <br>_50/35_         | Deck Swings + Mobility   |
-| 7    | 10x(1,2,3,4,5)+6  <br>_120/60_            | 5x(1,2,3,4)+7  <br>_50/35_         | Deck Swings + Mobility   |
-| 8    | 10x(1,2,3,4,5)+7  <br>_120/70_            | 5x(1,2,3,4)+7  <br>_50/35_         | Deck Swings + Mobility   |
-| 9    | 10x(1,2,3,4,5)+8  <br>_120/80_            | 5x(1,2,3,4)+7  <br>_50/35_         | Deck Swings + Mobility   |
-| 10   | 10x(1,2,3,4,5)+8  <br>_120/80_            | 5x(1,2,3,4)+6  <br>_50/30_         | Deck Swings + Mobility   |
-| 11   | 6–8x(1,2,3,4,5)+8  <br>_96–120/48–64_     | 4x(1,2,3,4)+6  <br>_40/24_         | Deck Swings + Mobility   |
-| 12   | 3x(1,2,3,4,5)+8  <br>_36/24_              | Flow ladders (easy)                | Deck Swings + Mobility   |
+| Week | Heavy Days (Mon / Fri)<br>_NL: PR/SQ_         | Light Day (Wed)<br>_NL: PR/SQ_      | Tue / Thu: Swings + Mobility (10–15min)           |
+|------|-----------------------------------------------|-------------------------------------|----------------------------------------------------|
+| 1    | 8x(1,2,3)+5       <br>_48/40_                 | 5x(1,2,3)+5     <br>_30/25_          | Swings + Mobility 10–15 minutes                   |
+| 2    | 9x(1,2,3)+6       <br>_54/54_                 | 5x(1,2,3)+6     <br>_30/30_          | Swings + Mobility 10–15 minutes                   |
+| 3    | 9x(1,2,3,4)+6     <br>_90/54_                 | 5x(1,2,3,4)+6   <br>_50/30_          | Swings + Mobility 10–15 minutes                   |
+| 4    | 10x(1,2,3,4)+6    <br>_100/60_                | 5x(1,2,3,4)+6   <br>_50/30_          | Swings + Mobility 10–15 minutes                   |
+| 5    | 10x(1,2,3,4)+7    <br>_100/70_                | 5x(1,2,3,4)+6   <br>_50/30_          | Swings + Mobility 10–15 minutes                   |
+| 6    | 10x(1,2,3,4)+8    <br>_100/80_                | 5x(1,2,3,4)+7   <br>_50/35_          | Swings + Mobility 10–15 minutes                   |
+| 7    | 8x(1,2,3,4,5)+6   <br>_120/48_                | 5x(1,2,3,4)+7   <br>_50/35_          | Swings + Mobility 10–15 minutes                   |
+| 8    | 9x(1,2,3,4,5)+6   <br>_135/54_                | 5x(1,2,3,4,5)+6 <br>_75/30_          | Swings + Mobility 10–15 minutes                   |
+| 9    | 9x(1,2,3,4,5)+7   <br>_135/63_                | 5x(1,2,3,4,5)+6 <br>_75/30_          | Swings + Mobility 10–15 minutes                   |
+|10    | 10x(1,2,3,4,5)+7  <br>_150/70_                | 5x(1,2,3,4,5)+6 <br>_75/30_          | Swings + Mobility 10–15 minutes                   |
+|11    | 10x(1,2,3,4,5)+7  <br>_150/70_                | 5x(1,2,3,4,5)+6 <br>_75/30_          | Swings + Mobility 10–15 minutes                   |
+|12    | 10x(1,2,3,4,5)+8  <br>_150/80_                | 5x(1,2,3,4,5)+6 <br>_75/30_          | Swings + Mobility 10–15 minutes                   |
 
 ---
 
