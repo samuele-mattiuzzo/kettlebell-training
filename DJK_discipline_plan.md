@@ -1,13 +1,15 @@
-# Double Kettlebell Jerk Program (Delta-20 Principle)
+# Double Kettlebell Jerk Program
 
-## Accessory Rotation (same for all phases)
+## Accessory Rotation
 - **Mon:** Push-ups to strong fatigue (stop 1–2 reps before absolute failure)
 - **Wed:** Front squats (2×20 kg = 8–10RM, 2×24 kg = 3–5RM)
 - **Fri:** Ring pull-ups (BW = 8RM, +12 kg = 3–4RM)
 
 ---
 
-## Double Kettlebell Jerk Cycle with Set Targets
+## Program
+
+- Prep: 2x20kg Ronin (3 phases) 6 + 4 + 4 wks
 
 | Phase | Length | Main Work | Short Sessions (21′ / 27′ / 35′) | Long Sessions (30′ / 36′ / 44′) | Notes |
 |-------|--------|-----------|----------------------------------|----------------------------------|-------|
@@ -26,8 +28,3 @@
 - Multiply **sets × reps per set** (phase rep target) to get total reps for the session.
 
 ---
-
-This is a plug-and-play loop:
-1. Start at **Power (current weight)**
-2. Flow through **Density → New Weight → Strength → Power (new weight)**
-3. Repeat the cycle forever, adjusting phase length (4–12 weeks) based on readiness.
