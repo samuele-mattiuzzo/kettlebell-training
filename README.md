@@ -1,7 +1,7 @@
 # KETTLEBELL PROGRAMS
 
 - Own
-  - [15_weeks_plan.md](15_weeks_plan.md)
+  - [DJK_discipline_plan.md](DJK_discipline_plan.md)
   - [sam_m_custom_programming_12_weeks.md](sam_m_custom_programming_12_weeks.md)
 
 - Geoff Neupert programs
