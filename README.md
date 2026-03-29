@@ -1,6 +1,9 @@
 # KETTLEBELL PROGRAMS
 
-- Own
+- GS
+  - [gs_ranks_scores.md](gs_ranks_scores.md)
+ 
+- Custom
   - [DJK_discipline_plan.md](DJK_discipline_plan.md)
   - [sam_m_custom_programming_12_weeks.md](sam_m_custom_programming_12_weeks.md)
 
