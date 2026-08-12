@@ -6,6 +6,7 @@
 - Custom
   - [DJK_discipline_plan.md](DJK_discipline_plan.md)
   - [sam_m_custom_programming_12_weeks.md](sam_m_custom_programming_12_weeks.md)
+  - [fighter_pullup.md](fighter_pullup.md)
 
 - Geoff Neupert programs
   - [real mfb.md](rmfb.md)
