@@ -22,8 +22,6 @@
 10. 5-4-3-2-1
     **OFF**
 
-([samuele-mattiuzzo.github.io][1])
-
 ---
 
 ## 5RM → 10RM
@@ -84,8 +82,6 @@
     **OFF**
 
 → **10RM test**
-
-([samuele-mattiuzzo.github.io][1])
 
 ---
 
