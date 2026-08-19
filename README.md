@@ -1,5 +1,7 @@
 # KETTLEBELL PROGRAMS
 
+- Current training calisthenics:
+  - [current_progress.md](current_progress.md)
 - GS
   - [gs_ranks_scores.md](gs_ranks_scores.md)
  
